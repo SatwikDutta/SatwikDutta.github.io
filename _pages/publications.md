@@ -5,36 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% include base_path %}
+For the full list of academic publications, check out my [Google Scholar](https://scholar.google.com/citations?user=sZkQ4Y0AAAAJ) profile.
 
-Journal Articles
-----------------
+Conferences and Workshops
+------
 
-{% capture written_year %}'None'{% endcapture %}
-{% for post in site.publications reversed %}
-  {% if post.type %}
-   {% if post.type == 'journal' %}
-    {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
-    {% if year != written_year %}
-      {% include year-heading.html %}
-      {% capture written_year %}{{ year }}{% endcapture %}    
-    {% endif %}
-    {% include archive-single.html %}
-   {% endif %}
-  {% endif %}
-{% endfor %}
+1) Debadatta Dash, Paul Ferrari, Satwik Dutta, & Jun Wang. [NeuroVAD: Real-time voice activity detection from non-invasive neuromagnetic signals](https://doi.org/10.3390/s20082248), Sensors 2020, 20, 2248. 
 
-Conference Papers
------------------
-
-{% capture written_year %}'None'{% endcapture %}
-{% for post in site.publications reversed %}
-  {% if post.type != 'journal' %}
-    {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
-    {% if year != written_year %}
-      {% include year-heading.html %}
-      {% capture written_year %}{{ year }}{% endcapture %}    
-    {% endif %}
-    {% include archive-single.html %}
-  {% endif %}
-{% endfor %}
