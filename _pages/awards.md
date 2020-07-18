@@ -4,7 +4,7 @@ title: "Awards & Honors"
 permalink: /awards/
 author_profile: true
 ---
-
+<p style="line-height:1.4">
 (A9) <b><font color="#e68a00">Pathways to Research Graduate Scholarship</font></b> (<font color="#0000e6">2019</font>), Erik Jonsson School of Engineering and Computer Science, The University of Texas at Dallas, USA.<br>
 (A8) <b><font color="#e68a00">Jonsson School Graduate Scholarship</font></b> (<font color="#0000e6">2018</font>), Erik Jonsson School of Engineering and Computer Science, The University of Texas at Dallas, USA.<br>
 (A7) <b><font color="#e68a00">Competent Leader</font></b> (<font color="#0000e6">2018</font>), Toastmasters International, USA.<br>
@@ -14,3 +14,4 @@ author_profile: true
 (A3) <b><font color="#e68a00">Pune DC Excellence Award for the Year 2016-17</font></b> (<font color="#0000e6">2017</font>), Infosys Pune Development Centre, Infosys Limited, India {Team Award}.<br>
 (A2) <b><font color="#e68a00">Dadagiri Achievement Award for Social Service</font></b> (<font color="#0000e6">2014</font>),  ZEE Bangla Entertainment Channel, Kolkata, India.<br>
 (A1) <b><font color="#e68a00">Star Rotaractor 2013-14</font></b> (<font color="#0000e6">2014</font>), Rotary International District 3291, Kolkata, India. 
+</p>
