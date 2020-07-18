@@ -15,7 +15,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-###  [Journal Articles](#journal-articles) &nbsp;&nbsp;&nbsp; [Conference Papers](#conference-papers) &nbsp;&nbsp;&nbsp; [Research Abstracts](#research-abstracts)
+###  [Journal Articles](#journal-articles) &nbsp;&nbsp;&nbsp; [Conference Papers](#conference-papers)
 
 Journal Articles
 ----------------
