@@ -4,7 +4,7 @@ title: "Awards & Honors"
 permalink: /awards/
 author_profile: true
 ---
-<p style="line-height:1.4">
+<p style="line-height:150%">
 (A9) <b><font color="#e68a00">Pathways to Research Graduate Scholarship</font></b> (<font color="#0000e6">2019</font>), Erik Jonsson School of Engineering and Computer Science, The University of Texas at Dallas, USA.<br>
 (A8) <b><font color="#e68a00">Jonsson School Graduate Scholarship</font></b> (<font color="#0000e6">2018</font>), Erik Jonsson School of Engineering and Computer Science, The University of Texas at Dallas, USA.<br>
 (A7) <b><font color="#e68a00">Competent Leader</font></b> (<font color="#0000e6">2018</font>), Toastmasters International, USA.<br>
