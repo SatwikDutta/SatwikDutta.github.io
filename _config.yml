@@ -83,7 +83,7 @@ author:
   name             : "Satwik Dutta"
   avatar           : "profile.png"
   bio              : "Ph.D. Candidate & Research Assitant at the University of Texas at Dallas"
-  location         : "Richardson, TX, USA"
+  location         : 
   employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&authuser=1&user=sZkQ4Y0AAAAJ"
@@ -99,7 +99,7 @@ author:
   github           : "SatwikDutta"
   google_plus      :
   keybase          :
-  instagram        : "thehumorousheart"
+  instagram        : 
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "satwik-dutta"
