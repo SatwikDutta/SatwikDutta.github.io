@@ -11,7 +11,7 @@ title                    : "Satwik Dutta"
 title_separator          : "-"
 name                     : &name "Satwik Dutta"
 description              : &description "Ph.D. Candidate at the University of Texas at Dallas"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://SatwikDutta.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "SatwikDutta.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -81,11 +81,11 @@ analytics:
 # Site Author
 author:
   name             : "Satwik Dutta"
-  avatar           : "images/profile.png"
+  avatar           : "profile.png"
   bio              : "Ph.D. Candidate & Research Assitant at the University of Texas at Dallas"
   location         : "Richardson, TX, USA"
-  employer         : "Center for Robust Speech Systems"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  employer         : 
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&authuser=1&user=sZkQ4Y0AAAAJ"
   email            :
   researchgate     :  "https://www.researchgate.net/profile/Satwik_Dutta"
