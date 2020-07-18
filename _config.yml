@@ -81,14 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "Satwik Dutta"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  avatar           : "IMG_20180603_152307.jpeg"
+  bio              : "Ph.D. Candidate at the University of Texas at Dallas"
   location         : "Richardson, TX, USA"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&authuser=1&user=sZkQ4Y0AAAAJ"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Satwik_Dutta"
   uri              :
   bitbucket        :
   codepen          :
