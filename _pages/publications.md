@@ -14,21 +14,6 @@ Journal Articles
 
 (J1) Debadatta Dash, Paul Ferrari, <b>Satwik Dutta</b>, & Jun Wang. "[NeuroVAD: Real-time voice activity detection from non-invasive neuromagnetic signals](https://doi.org/10.3390/s20082248)", Sensors 2020, 20, 2248. 
 
-(J1) Debadatta Dash, Paul Ferrari, <b>Satwik Dutta</b>, & Jun Wang. "[NeuroVAD: Real-time voice activity detection from non-invasive neuromagnetic signals](https://doi.org/10.3390/s20082248)", Sensors 2020, 20, 2248. 
-
-(J1) Debadatta Dash, Paul Ferrari, <b>Satwik Dutta</b>, & Jun Wang. "[NeuroVAD: Real-time voice activity detection from non-invasive neuromagnetic signals](https://doi.org/10.3390/s20082248)", Sensors 2020, 20, 2248. 
-
-(J1) Debadatta Dash, Paul Ferrari, <b>Satwik Dutta</b>, & Jun Wang. "[NeuroVAD: Real-time voice activity detection from non-invasive neuromagnetic signals](https://doi.org/10.3390/s20082248)", Sensors 2020, 20, 2248. 
-
-(J1) Debadatta Dash, Paul Ferrari, <b>Satwik Dutta</b>, & Jun Wang. "[NeuroVAD: Real-time voice activity detection from non-invasive neuromagnetic signals](https://doi.org/10.3390/s20082248)", Sensors 2020, 20, 2248. 
-
-(J1) Debadatta Dash, Paul Ferrari, <b>Satwik Dutta</b>, & Jun Wang. "[NeuroVAD: Real-time voice activity detection from non-invasive neuromagnetic signals](https://doi.org/10.3390/s20082248)", Sensors 2020, 20, 2248. 
-
-(J1) Debadatta Dash, Paul Ferrari, <b>Satwik Dutta</b>, & Jun Wang. "[NeuroVAD: Real-time voice activity detection from non-invasive neuromagnetic signals](https://doi.org/10.3390/s20082248)", Sensors 2020, 20, 2248. 
-
-(J1) Debadatta Dash, Paul Ferrari, <b>Satwik Dutta</b>, & Jun Wang. "[NeuroVAD: Real-time voice activity detection from non-invasive neuromagnetic signals](https://doi.org/10.3390/s20082248)", Sensors 2020, 20, 2248. 
-
-(J1) Debadatta Dash, Paul Ferrari, <b>Satwik Dutta</b>, & Jun Wang. "[NeuroVAD: Real-time voice activity detection from non-invasive neuromagnetic signals](https://doi.org/10.3390/s20082248)", Sensors 2020, 20, 2248. 
 
 Conference Papers
 ------
