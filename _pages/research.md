@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-<span style="color:orange"> *This page is under construction* </span>
+*This page is under construction*
 
 ### [Current Projects](#current-projects) &nbsp;&nbsp;&nbsp; [Previous Projects](#previous-projects)  &nbsp;&nbsp;&nbsp; [Collaborators](#collaborators) 
 
