@@ -5,7 +5,7 @@ permalink: /awards/
 author_profile: true
 ---
 
-<span style="color: rgb(0, 179, 60);">&#9818;</span>Academic &nbsp;&nbsp; <span style="color: rgb(0, 0, 230);">&#9873;</span>Professional &nbsp;&nbsp; <span style="color: rgb(204, 0, 204);">&#9730;</span>Community Service &nbsp;&nbsp; <span style="color: rgb(230, 138, 0);">&#x2605;</span>Team award 
+### <span style="color: rgb(0, 179, 60);">&#9818;</span>Academic &nbsp;&nbsp; <span style="color: rgb(0, 0, 230);">&#9873;</span>Professional &nbsp;&nbsp; <span style="color: rgb(204, 0, 204);">&#9730;</span>Community Service &nbsp;&nbsp; <span style="color: rgb(230, 138, 0);">&#x2605;</span>Team award 
 
 (A9) <b>Pathways to Research Graduate Scholarship</b><sup><span style="color: rgb(0, 179, 60);">&#9818;</span></sup> (<font color="#0000e6">2019</font>), Erik Jonsson School of Engineering and Computer Science, University of Texas at Dallas, USA.<br>  
 (A8) <b>Jonsson School Graduate Scholarship</b><sup><span style="color: rgb(0, 179, 60);">&#9818;</span></sup> (<font color="#0000e6">2018</font>), Erik Jonsson School of Engineering and Computer Science, University of Texas at Dallas, USA.<br>  
