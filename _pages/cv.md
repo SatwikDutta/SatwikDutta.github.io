@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-### [Education](#education) &nbsp;&nbsp; [Experience](#experience) &nbsp;&nbsp; [Publications](https://satwikdutta.github.io/publications/) &nbsp;&nbsp; [Awards](https://satwikdutta.github.io/awards/)  &nbsp;&nbsp; [Leadership](https://satwikdutta.github.io/leadership/) &nbsp;&nbsp; [Service](https://satwikdutta.github.io/service/) &nbsp;&nbsp; [References](#references) 
+### [Education](#education) &nbsp;&nbsp; [Experience](#experience) &nbsp;&nbsp; [Publications](https://satwikdutta.github.io/publications/) &nbsp;&nbsp; [Awards](https://satwikdutta.github.io/awards/)  &nbsp;&nbsp; [Leadership](https://satwikdutta.github.io/leadership/) &nbsp;&nbsp; [Service](#service) &nbsp;&nbsp; [References](#references) 
 
 Education
 -------
@@ -47,7 +47,16 @@ Experience
 * **Systems Engineer** (<font color="#0000e6">2016–17</font>), Infosys Limited, Pune, India.
 
 * **Systems Engineer Trainee** (<font color="#0000e6">2015</font>), Infosys Limited, Mysore, India.
-  
+ 
+Service
+------
+
+* Member, New Student Engagement Board (<font color="#0000e6">2020 - present</font>), University of Texas at Dallas, USA.
+* ECE New Graduate Student Orientation (<font color="#0000e6">2019 - present</font>), Erik Jonsson School of Engineering and Computer Science, University of Texas at Dallas, USA.
+* Student Member of Academic Appeals Panel (<font color="#0000e6">2019</font>), Erik Jonsson School of Engineering and Computer Science, University of Texas at Dallas, USA.
+* Traditions Committee Member (<font color="#0000e6">2018</font>), Student Union and Activities Advisory Board, University of Texas at Dallas, USA.
+* Career Center Expo Ambassador (<font color="#0000e6">2018</font>), Career Center, University of Texas at Dallas, USA.
+ 
 References
 -------
 Please ask for references. 
