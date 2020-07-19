@@ -25,23 +25,28 @@ Education
 Experience
 -------
 
-* **Research Assistant** (2019 – Present), Center for Robust Speech Systems, Erik Jonsson School of Engineering and Computer Science, The University of Texas at Dallas, USA [Principal Investigator: <font color="blue">Dr. John H.L. Hansen</font>].
+* **Research Assistant** (<font color="#0000e6">2019 – present</font>), Robust Speech Technologies Lab, [Center for Robust Speech Systems](https://crss.utdallas.edu/), Erik Jonsson School of Engineering and Computer Science, University of Texas at Dallas, USA.
+  - Principal Investigator: [Dr. John H. L. Hansen](https://personal.utdallas.edu/~john.hansen/)
 
-* **Visiting Research Assistant** (2019 – Present), Language in Motion Lab, Callier Center for Communication Disorders, The University of Texas at Dallas, USA [Principal Investigator: <font color="blue">Dr. Lisa Goffman</font>].
+* **Visiting Research Assistant** (<font color="#0000e6">2019 – present</font>), [Language in Motion Lab](https://bbs.utdallas.edu/language-in-motion/), Callier Center for Communication Disorders, The University of Texas at Dallas, USA.
+  - Principal Investigator: [Dr. Lisa Goffman](https://utdallas.edu/chairs/profiles/dr-lisa-goffman/)
+  
+* **Visiting Research Assistant** (<font color="#0000e6">2019–20</font>), [Callier Center for Communication Disorders](https://calliercenter.utdallas.edu/), The University of Texas at Dallas, USA.
+  - Principal Investigator: [Dr. Thomas F. Campbell](https://utdallas.edu/chairs/profiles/dr-thomas-campbell/)
 
-* **Visiting Research Assistant** (2019–20), Communication Technology Center, Callier Center for Communication Disorders, The University of Texas at Dallas, USA [Principal Investigator: <font color="blue">Dr. Thomas Campbell</font>].
+* **Research Assistant** (<font color="#0000e6">2019</font>), [Speech Disorders & Technology Lab](https://csd.utexas.edu/research/wang-lab/home), Erik Jonsson School of Engineering and Computer Science, The University of Texas at Dallas, USA.
+  - Principal Investigator: [Dr. Jun Wang](https://csd.utexas.edu/faculty/jun-wang)
 
-* **Research Assistant** (2019), Speech Disorders & Technology Lab, Erik Jonsson School of Engineering and Computer Science, The University of Texas at Dallas, USA [Principal Investigator: <font color="blue">Dr. Jun Wang</font>].
+* **Teaching Assistant** (<font color="#0000e6">2019</font>), Department of Bioengineering,  Erik Jonsson School of Engineering and Computer Science, The University of Texas at Dallas, USA.
+  - Course: Advanced Research Methods: Applied Machine Learning and Data Analytics
 
-* **Teaching Assistant** (2019 ), Department of Bioengineering,  Erik Jonsson School of Engineering and Computer Science, The University of Texas at Dallas, USA [Course: Advanced Research Methods: Applied Machine Learning and Data Analytics].
+* **Senior Associate – Education, Training & Assessment** (<font color="#0000e6">2017–18</font>), Infosys Pune Development Centre, Infosys Limited, India.
 
-* **Senior Associate – Education, Training & Assessment** (2017–18), Infosys Pune Development Centre, Infosys Limited, India.
+* **Associate – Education, Training & Assessment** (<font color="#0000e6">2017</font>), Infosys Pune Development Centre, Infosys Limited, India.
 
-* **Associate – Education, Training & Assessment** (2017), Infosys Pune Development Centre, Infosys Limited, India.
+* **Systems Engineer** (<font color="#0000e6">2016–17</font>), Infosys Pune Development Centre, Infosys Limited, India.
 
-* **Systems Engineer** (2016–17), Infosys Pune Development Centre, Infosys Limited, India.
-
-* **Systems Engineer Trainee** (2015), Infosys Pune Development Centre, Infosys Limited, India.
+* **Systems Engineer Trainee** (<font color="#0000e6">2015</font>), Infosys Pune Development Centre, Infosys Limited, India.
   
 References
 -------
