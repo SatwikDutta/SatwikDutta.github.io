@@ -18,7 +18,7 @@ Education
   
 * **M.S.** in Electrical Engineering (<font color="#0000e6">2020</font>), University of Texas at Dallas, Richardson, TX, USA.
   - Advisor: [Dr. John H. L. Hansen](https://personal.utdallas.edu/~john.hansen/).
-  - Thesis: "*Advancing Speech Activity Detection for Automatic Speech Assessment of Pre-school Children Prompted Speech*".
+  - Thesis: *Advancing Speech Activity Detection for Automatic Speech Assessment of Pre-school Children Prompted Speech*.
   
 * **B.Tech.** in Electronics & Communication Engineering (<font color="#0000e6">2015</font>), Heritage Institute of Technology, Kolkata, WB, India.
 
@@ -38,7 +38,7 @@ Experience
   - Principal Investigator: [Dr. Jun Wang](https://csd.utexas.edu/faculty/jun-wang).
 
 * **Teaching Assistant** (<font color="#0000e6">2019</font>), Department of Bioengineering,  Erik Jonsson School of Engineering and Computer Science, University of Texas at Dallas, USA.
-  - Graduate Course: Advanced Research Methods: Applied Machine Learning and Data Analytics.
+  - Graduate Course: *Advanced Research Methods - Applied Machine Learning and Data Analytics*.
 
 * **Senior Associate – Education, Training & Assessment** (<font color="#0000e6">2017–18</font>), Infosys Limited, Pune, India.
 
