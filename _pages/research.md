@@ -7,7 +7,7 @@ author_profile: true
 
 
 
-### [Current Projects](#current-projects) &nbsp;&nbsp;&nbsp; [Previous Projects](#previous-projects)  &nbsp;&nbsp;&nbsp; [Mentors & Collaborators](#research-mentors-&-collaborators) 
+### [Current Projects](#current-projects) &nbsp;&nbsp;&nbsp; [Previous Projects](#previous-projects)  &nbsp;&nbsp;&nbsp; [Mentors & Collaborators](#mentors-&-collaborators) 
 
 Current Projects
 ------
