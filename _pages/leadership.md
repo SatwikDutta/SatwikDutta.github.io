@@ -5,7 +5,7 @@ permalink: /leadership/
 author_profile: true
 ---
 
-(A9) <b><font color="#e68a00">Pathways to Research Graduate Scholarship</font></b> (<font color="#0000e6">2019</font>), Erik Jonsson School of Engineering and Computer Science, University of Texas at Dallas, USA.<br>
+(A9) <b><font color="#e68a00">Pathways to Research Graduate Scholarship</font></b> (<font color="#0000e6">2019</font>), Erik Jonsson School of Engineering and Computer Science, University of Texas at Dallas, USA.
 <p>(L7) Erik Jonsson School of Engineering and Computer Science Representative (<font color="#0000e6">2020-21</font>), Graduate Student Assembly, University of Texas at Dallas, USA.</p>
 <p>(L6) Vice-President of Administration (<font color="#0000e6">2020-21</font>), Graduate Student Assembly Executive Board, University of Texas at Dallas, USA.</p>
 <p>(L5) Secretary (<font color="#0000e6">2018</font>), Infosys Pune Toastmasters Club, Toastmasters International District 98.</p>
