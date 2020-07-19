@@ -11,9 +11,13 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Electrical Engineering (in progress), University of Texas at Dallas, Richardson, TX, USA.
+  - Advisor: Dr. John H. L. Hansen
+  - Dissertation: TBA
+* M.S. in Electrical Engineering (2020), University of Texas at Dallas, Richardson, TX, USA.
+  - Advisor: Dr. John H. L. Hansen
+  - Thesis: "Advancing Speech Activity Detection for Automatic Speech Assessment of Pre-school Children Prompted Speech"
+* B.Tech. in Electronics & Communication Engineering (2015), Heritage Institute of Technology, Kolkata, WB, India.
 
 Work experience
 ======
