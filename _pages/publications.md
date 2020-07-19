@@ -4,7 +4,6 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-
 The full list of academic publications is also available on my [Google Scholar](https://scholar.google.com/citations?user=sZkQ4Y0AAAAJ) profile.
 
 ### [Journal Articles](#journal-articles) &nbsp;&nbsp;&nbsp; [Conference Papers](#conference-papers)  &nbsp;&nbsp;&nbsp; [Research Abstracts](#research-abstracts) 
