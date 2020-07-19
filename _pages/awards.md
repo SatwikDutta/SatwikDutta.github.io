@@ -12,9 +12,9 @@ author_profile: true
 (A7) <b>Competent Leader</b><sup><span style="color: rgb(0, 0, 230);">&#9873;</span></sup> (<font color="#0000e6">2018</font>), Toastmasters International, USA.<br>  
 (A6) <b>Winner - Young Achievers Award for the Year 2017</b><sup><span style="color: rgb(204, 0, 204);">&#9730;</span></sup> (<font color="#0000e6">2018</font>), Infosys Limited, Pune, India.<br>  
 (A5) <b>Insta Award</b><sup><span style="color: rgb(0, 0, 230);">&#9873;</span></sup> (<font color="#0000e6">2016,2018</font>), Infosys Limited, Pune, India.<br>  
-(A4) <b>Award for Excellence for the Year 2016-17</b><sup><span style="color: rgb(204, 0, 204);">&#9730;</span> (<font color="#0000e6">2017</font>), Infosys Limited, Pune, India.<br>  
-(A3) <b>Pune DC Excellence Award for the Year 2016-17</b><sup><span style="color: rgb(204, 0, 204);">&#9730;</span> (<font color="#0000e6">2017</font>), Infosys Limited, Pune, India.<br>  
-(A2) <b>Dadagiri Achievement Award for Social Service</b><sup><span style="color: rgb(204, 0, 204);">&#9730;</span> (<font color="#0000e6">2014</font>),  ZEE Bangla Entertainment Channel, Kolkata, India.<br>  
-(A1) <b>Star Rotaractor 2013-14</b><sup><span style="color: rgb(204, 0, 204);">&#9730;</span> (<font color="#0000e6">2014</font>), Rotary International District 3291, Kolkata, India.  
+(A4) <b>Award for Excellence for the Year 2016-17</b><sup><span style="color: rgb(204, 0, 204);">&#9730;</span></sup> (<font color="#0000e6">2017</font>), Infosys Limited, Pune, India.<br>  
+(A3) <b>Pune DC Excellence Award for the Year 2016-17</b><sup><span style="color: rgb(204, 0, 204);">&#9730;</span></sup> (<font color="#0000e6">2017</font>), Infosys Limited, Pune, India.<br>  
+(A2) <b>Dadagiri Achievement Award for Social Service</b><sup><span style="color: rgb(204, 0, 204);">&#9730;</span></sup> (<font color="#0000e6">2014</font>),  ZEE Bangla Entertainment Channel, Kolkata, India.<br>  
+(A1) <b>Star Rotaractor 2013-14</b><sup><span style="color: rgb(204, 0, 204);">&#9730;</span></sup> (<font color="#0000e6">2014</font>), Rotary International District 3291, Kolkata, India.  
 
 
