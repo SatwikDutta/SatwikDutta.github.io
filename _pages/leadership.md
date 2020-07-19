@@ -5,7 +5,7 @@ permalink: /leadership/
 author_profile: true
 ---
 
-### <span style="color: rgb(0, 179, 60);">&#9818;</span>Academic/University &nbsp;&nbsp; <span style="color: rgb(0, 0, 230);">&#9873;</span>Professional &nbsp;&nbsp; <span style="color: rgb(204, 0, 204);">&#9730;</span>Community Service 
+### <span style="color: rgb(0, 179, 60);">&#9818;</span>Academic &nbsp;&nbsp; <span style="color: rgb(0, 0, 230);">&#9873;</span>Professional &nbsp;&nbsp; <span style="color: rgb(204, 0, 204);">&#9730;</span>Community Service 
 
 (L8) <span style="color: rgb(0, 179, 60);">&#9818;</span> **Erik Jonsson School of Engineering and Computer Science Representative** (<font color="#0000e6">2020-21</font>), Graduate Student Assembly, University of Texas at Dallas, USA.<br>  
 (L7) <span style="color: rgb(0, 179, 60);">&#9818;</span> **Vice-President of Administration** (<font color="#0000e6">2020-21</font>), Graduate Student Assembly Executive Board, University of Texas at Dallas, USA.<br>  
