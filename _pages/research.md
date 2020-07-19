@@ -7,7 +7,7 @@ author_profile: true
 
 <p style="color:red;font-size:30px">UNDER CONSTRUCTION.</p>
 
-### [Current Projects](#current-projects) &nbsp;&nbsp;&nbsp; [Previous Projects](#previous-projects)  &nbsp;&nbsp;&nbsp; [Research Mentors/Collaborators](#collaborators) 
+### [Current Projects](#current-projects) &nbsp;&nbsp;&nbsp; [Previous Projects](#previous-projects)  &nbsp;&nbsp;&nbsp; [Research Mentors/Collaborators](#research-mentors/collaborators) 
 
 Current Projects
 ------
