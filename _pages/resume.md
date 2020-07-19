@@ -11,33 +11,33 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Electrical Engineering (in progress), University of Texas at Dallas, Richardson, TX, USA.
-  - Advisor: Dr. John H. L. Hansen
+* **Ph.D** in Electrical Engineering (<font color="#0000e6">in progress</font>), University of Texas at Dallas, Richardson, TX, USA.
+  - Advisor: [Dr. John H. L. Hansen](https://personal.utdallas.edu/~john.hansen/)
   - Dissertation: TBA
-* M.S. in Electrical Engineering (2020), University of Texas at Dallas, Richardson, TX, USA.
-  - Advisor: Dr. John H. L. Hansen
+* **M.S.** in Electrical Engineering (<font color="#0000e6">2020</font>), University of Texas at Dallas, Richardson, TX, USA.
+  - Advisor: [Dr. John H. L. Hansen](https://personal.utdallas.edu/~john.hansen/)
   - Thesis: "Advancing Speech Activity Detection for Automatic Speech Assessment of Pre-school Children Prompted Speech"
-* B.Tech. in Electronics & Communication Engineering (2015), Heritage Institute of Technology, Kolkata, WB, India.
+* **B.Tech.** in Electronics & Communication Engineering (<font color="#0000e6">2015</font>), Heritage Institute of Technology, Kolkata, WB, India.
 
 Research/Teaching/Work Experience
 ======
-<ul><li><b><font color="#cc00cc">Research Assistant (2019 – Present)</font></b>, Center for Robust Speech Systems, Erik Jonsson School of Engineering and Computer Science, The University of Texas at Dallas, USA [Principal Investigator: <font color="blue">Dr. John H.L. Hansen</font>].</ul>
+* **Research Assistant** (2019 – Present), Center for Robust Speech Systems, Erik Jonsson School of Engineering and Computer Science, The University of Texas at Dallas, USA [Principal Investigator: <font color="blue">Dr. John H.L. Hansen</font>].
 
-<ul><li><b><font color="#cc00cc">Visiting Research Assistant (2019 – Present)</font></b>, Language in Motion Lab, Callier Center for Communication Disorders, The University of Texas at Dallas, USA [Principal Investigator: <font color="blue">Dr. Lisa Goffman</font>].</ul>
+* **Visiting Research Assistant** (2019 – Present), Language in Motion Lab, Callier Center for Communication Disorders, The University of Texas at Dallas, USA [Principal Investigator: <font color="blue">Dr. Lisa Goffman</font>].
 
-<ul><li><b><font color="#cc00cc">Visiting Research Assistant (2019–20)</font></b>, Communication Technology Center, Callier Center for Communication Disorders, The University of Texas at Dallas, USA [Principal Investigator: <font color="blue">Dr. Thomas Campbell</font>].</ul>
+* **Visiting Research Assistant** (2019–20), Communication Technology Center, Callier Center for Communication Disorders, The University of Texas at Dallas, USA [Principal Investigator: <font color="blue">Dr. Thomas Campbell</font>].
 
-<ul><li><b><font color="#cc00cc">Research Assistant (2019)</font></b>, Speech Disorders & Technology Lab, Erik Jonsson School of Engineering and Computer Science, The University of Texas at Dallas, USA [Principal Investigator: <font color="blue">Dr. Jun Wang</font>].</ul>
+* **Research Assistant** (2019), Speech Disorders & Technology Lab, Erik Jonsson School of Engineering and Computer Science, The University of Texas at Dallas, USA [Principal Investigator: <font color="blue">Dr. Jun Wang</font>].
 
-<ul><li><b><font color="#cc00cc">Teaching Assistant (2019 )</font></b>, Department of Bioengineering,  Erik Jonsson School of Engineering and Computer Science, The University of Texas at Dallas, USA [Course: Advanced Research Methods: Applied Machine Learning and Data Analytics].</ul>
+* **Teaching Assistant** (2019 ), Department of Bioengineering,  Erik Jonsson School of Engineering and Computer Science, The University of Texas at Dallas, USA [Course: Advanced Research Methods: Applied Machine Learning and Data Analytics].
 
-<ul><li><b><font color="#cc00cc">Senior Associate – Education, Training & Assessment (2017–18)</font></b>, Infosys Pune Development Centre, Infosys Limited, India.</ul>
+* **Senior Associate – Education, Training & Assessment** (2017–18), Infosys Pune Development Centre, Infosys Limited, India.
 
-<ul><li><b><font color="#cc00cc">Associate – Education, Training & Assessment (2017)</font></b>, Infosys Pune Development Centre, Infosys Limited, India.</ul>
+* **Associate – Education, Training & Assessment** (2017), Infosys Pune Development Centre, Infosys Limited, India.
 
-<ul><li><b><font color="#cc00cc">Systems Engineer (2016–17)</font></b>, Infosys Pune Development Centre, Infosys Limited, India.</ul>
+* **Systems Engineer** (2016–17), Infosys Pune Development Centre, Infosys Limited, India.
 
-<ul><li><b><font color="#cc00cc">Systems Engineer Trainee (2015)</font></b>, Infosys Pune Development Centre, Infosys Limited, India.</ul>
+* **Systems Engineer Trainee** (2015), Infosys Pune Development Centre, Infosys Limited, India.
   
 Skills
 ======
