@@ -15,6 +15,6 @@ author_profile: true
 (L1) **Joint Secretary** <font color="#0000e6">2013-14</font>, Rotaract Club of Heritage Institute of Technology<sup><font color="#e68a00">1</font></sup>, Heritage Institute of Technology, Kolkata, India.<br>  
 
 
-<font color="#e68a00">1) Affiliated to Rotary International District 3291 under Rotary Club of Calcutta Mahanagar.</font>    
-<font color="#e68a00">2) Affiliated to Toastmasters International District 98.</font>     
-<font color="#e68a00">3) Registered NGO under Government of India.</font>      
+<font color="#e68a00">1) Affiliated to Rotary International District 3291 under Rotary Club of Calcutta Mahanagar.</font><br>
+<font color="#e68a00">2) Affiliated to Toastmasters International District 98.</font><br>
+<font color="#e68a00">3) Registered NGO under Government of India.</font><br> 
