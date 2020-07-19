@@ -1,13 +1,15 @@
 ---
 layout: archive
-title: "Resume"
-permalink: /resume/
+title: "CV"
+permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
 {% include base_path %}
+
+### [Education](#education) &nbsp;&nbsp; [Experience](#experience) &nbsp;&nbsp; [Publications](https://satwikdutta.github.io/publications/) &nbsp;&nbsp; [Awards](https://satwikdutta.github.io/awards/)  &nbsp;&nbsp; [Leadership](https://satwikdutta.github.io/leadership/) &nbsp;&nbsp; [Service](https://satwikdutta.github.io/service/) &nbsp;&nbsp; [References](#references) 
 
 Education
 ======
