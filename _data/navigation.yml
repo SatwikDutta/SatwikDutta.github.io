@@ -15,8 +15,8 @@ main:
   - title: "Service"
     url: /service/
     
-  - title: "CV"
-    url: /cv/
+  - title: "Resume"
+    url: /resume/
     
   - title: "Guide"
     url: /markdown/
