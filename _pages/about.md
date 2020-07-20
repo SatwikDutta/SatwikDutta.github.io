@@ -12,6 +12,11 @@ I am a first-year Ph.D. candidate in Electrical Engineering (Speech/Signal Proce
 
 I also maintain an active collaboration with Dr. Lisa Goffman from the Callier Center for Communication Disorders. Previously, I have worked with Dr. Thomas F. Campbell from the Callier Center on a child speech assessment project.  I started my first research project with Dr. Jun Wang at the Speech Disorders & Technology Lab. Currently, I serve as the Vice-President of Administration and Erik Jonsson School Representative of the UT Dallas Graduate Student Assembly for the academic year 2020-2021.
 
+Upcoming Conferences 
+------
+
+To be announced soon. 
+
 Latest Updates
 ------
 
