@@ -12,7 +12,7 @@ author_profile: true
 Current Projects
 ------
 
-1. **<font color='#b300b3'>Speech Activity Detection for Prompted Pre-School Children Speech</font>**: Coming soon ![alt text]https://satwikdutta.github.io/images/2020_pic_5.png)
+1. **<font color='#b300b3'>Speech Activity Detection for Prompted Pre-School Children Speech</font>**: Coming soon ![alt text](https://satwikdutta.github.io/images/2020_pic_5.png)
 
 
 2. **<font color='#009933'>Sequential Pattern Learning in children with Developmental Language Disorder</font>**: Coming soon!
