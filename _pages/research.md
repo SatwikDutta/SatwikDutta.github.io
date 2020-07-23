@@ -16,6 +16,15 @@ Current Projects
 
 <div class="row">
   <div class="column">
+    1
+  </div>
+  <div class="column">
+    2
+  </div>
+</div>
+
+<div class="row">
+  <div class="column">
     Description here
   </div>
   <div class="column">
