@@ -14,6 +14,15 @@ Current Projects
 
 1. **<font color='#b300b3'>Speech Activity Detection for Prompted Pre-School Children Speech</font>**:
 
+<div class="row">
+  <div class="column">
+    <img src="2020_pic_5.png" alt="Snow" style="width:100%">
+  </div>
+  <div class="column">
+    Description here
+  </div>
+</div>
+
 2. **<font color='#009933'>Sequential Pattern Learning in children with Developmental Language Disorder</font>**:
 
 
