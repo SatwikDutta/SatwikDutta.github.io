@@ -12,17 +12,17 @@ author_profile: true
 Current Projects
 ------
 
-1. **<font color='indigo'>Speech Activity Detection for Prompted Pre-School Children Speech</font>**:
+1. **<font color='#b300b3'>Speech Activity Detection for Prompted Pre-School Children Speech</font>**:
 
-2. **Sequential Pattern Learning in children with Developmental Language Disorder**:
+2. **<font color='#009933'>Sequential Pattern Learning in children with Developmental Language Disorder</font>**:
 
 
 Previous Projects
 ------
 
-1. **Articulatory Kinematic Analysis of subjects with Amyotrophic Lateral Sclerosis & Laryngectomy**: 
+1. **<font color='#994d00'>Articulatory Kinematic Analysis of subjects with Amyotrophic Lateral Sclerosis & Laryngectomy</font>**: 
 
-2. **Speech Activity Detection from Brain Signals**: 
+2. **<font color='#994d00'>Speech Activity Detection from Brain Signals</font>**: 
 
 
 Collaborators
