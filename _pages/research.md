@@ -16,7 +16,7 @@ Current Projects
 
 <div class="row">
   <div class="column">
-    <img src="./images/2020_pic_5.png" alt="Snow" style="width:100%">
+    <img src="https://satwikdutta.github.io/images/2020_pic_5.png" alt="Snow" style="width:25%">
   </div>
   <div class="column">
     Description here
