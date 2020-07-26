@@ -5,17 +5,15 @@ permalink: /research/
 author_profile: true
 ---
 
-*This page is under construction*
-
 ### [Current Projects](#current-projects) &nbsp;&nbsp;&nbsp; [Previous Projects](#previous-projects)  &nbsp;&nbsp;&nbsp; [Collaborators](#collaborators) 
 
 Current Projects
 ------
 
-1. **<font color='#b300b3'>Speech Activity Detection for Prompted Pre-School Children Speech</font>**: Coming soon !
+1. **<font color='#b300b3'>Speech Activity Detection for Prompted Pre-School Children Speech</font>** (PIs: [Dr. John H.L. Hansen](https://personal.utdallas.edu/~john.hansen/), [Dr. Thomas F. Campbell](https://utdallas.edu/chairs/profiles/dr-thomas-campbell/)): Details coming soon !
 
 
-2. **<font color='#009933'>Sequential Pattern Learning in children with Developmental Language Disorder</font>**: Coming soon!
+2. **<font color='#009933'>Sequential Pattern Learning in children with Developmental Language Disorder</font>** (PI: [Dr. Lisa Goffman](https://utdallas.edu/chairs/profiles/dr-lisa-goffman/)): Developmental language disorder (DLD; aka specific language impairment) affects approximately 7% of children at the time they enter kindergarten, with longstanding adverse academic, social, and communicative consequences. While there is no question that language deficits feature prominently in children diagnosed with DLD, there are other cognitive and motor capacities affected—such as pattern induction, rhythmic grouping, and sequential organization. Previous findings show that the capacity for deploying sequentially patterned information mediates language and motor production. Sequential patterning is a central component of phonology and morphosyntax–domains of language difficulty presented in children with DLD.  The central aim of this project is to implement a novel framework for applying domain general cognitive mechanisms to learning and generalization; specifically all of the proposed experiments have in common the hypothesis that children with DLD will learn more effectively and generalize more broadly when targets are selected to emphasize the regularity of sequential patterns.
 
 Previous Projects
 ------
