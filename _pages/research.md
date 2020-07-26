@@ -10,7 +10,7 @@ author_profile: true
 Current Projects
 ------
 
-1. **<font color='#b300b3'>Speech Activity Detection for Prompted Pre-School Children Speech</font>** (PIs: [Dr. John H.L. Hansen](https://personal.utdallas.edu/~john.hansen/), [Dr. Thomas F. Campbell](https://utdallas.edu/chairs/profiles/dr-thomas-campbell/)):  \
+1. **<font color='#b300b3'>Speech Activity Detection for Prompted Pre-School Children Speech</font>** (PIs: [Dr. John H.L. Hansen](https://personal.utdallas.edu/~john.hansen/), [Dr. Thomas F. Campbell](https://utdallas.edu/chairs/profiles/dr-thomas-campbell/)):<br>
 Details coming soon !
 
 
@@ -20,7 +20,7 @@ Developmental language disorder (DLD; aka specific language impairment) affects 
 Previous Projects
 ------
 
-1. **<font color='#994d00'>Articulatory Kinematic Analysis of subjects with Amyotrophic Lateral Sclerosis</font>** (PI: [Dr. Jun Wang](https://csd.utexas.edu/faculty/jun-wang)):  \
+1. **<font color='#994d00'>Articulatory Kinematic Analysis of subjects with Amyotrophic Lateral Sclerosis</font>** (PI: [Dr. Jun Wang](https://csd.utexas.edu/faculty/jun-wang)):<br>
 Amyotrophic lateral sclerosis (ALS) is a progressive neurodegenerative disease that severely impairs voluntary motor function. As ALS progresses, patients will experience loss of motor control including difficulties to maintain speech and swallowing abilities. Accurate detection and monitoring of ALS are critical for effective therapeutic intervention. Recent studies discovered that the articulatory subsystem was most sensitive to ALS for monitoring speech performance decline and predicted that the speed of the tongue might be particularly sensitive to early changes in speech motor performance. Research suggests that articulatory kinematics may be beneficial for earlier diagnosis of ALS. This project was motivated by the need to develop more sensitive markers of disease progression for subjects with ALS which will improve current clinical practise. \[Journal in review\]
 
 1. **<font color='#994d00'>Articulatory Kinematic Analysis of subjects with Laryngectomy vs. Silent Speech</font>** (PI: [Dr. Jun Wang](https://csd.utexas.edu/faculty/jun-wang)):    
