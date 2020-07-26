@@ -31,7 +31,7 @@ Experience
 * **Visiting Research Assistant** (<font color="#0000e6">2019 – present</font>), [Language in Motion Lab](https://bbs.utdallas.edu/language-in-motion/), Callier Center for Communication Disorders, University of Texas at Dallas, USA.
   - Principal Investigator: [Dr. Lisa Goffman](https://utdallas.edu/chairs/profiles/dr-lisa-goffman/).
   
-* **Visiting Research Assistant** (<font color="#0000e6">2019–20</font>), [Callier Center for Communication Disorders](https://calliercenter.utdallas.edu/), University of Texas at Dallas, USA.
+* **Visiting Research Assistant** (<font color="#0000e6">2019 – present</font>), [Callier Center for Communication Disorders](https://calliercenter.utdallas.edu/), University of Texas at Dallas, USA.
   - Principal Investigator: [Dr. Thomas F. Campbell](https://utdallas.edu/chairs/profiles/dr-thomas-campbell/).
 
 * **Research Assistant** (<font color="#0000e6">2019</font>), [Speech Disorders & Technology Lab](https://csd.utexas.edu/research/wang-lab/home), Erik Jonsson School of Engineering and Computer Science, University of Texas at Dallas, USA.
@@ -51,9 +51,9 @@ Experience
 Service
 ------
 
-* Member, New Student Engagement Board (<font color="#0000e6">2020 - present</font>), University of Texas at Dallas, USA.
-* ECE New Graduate Student Orientation (<font color="#0000e6">2019 - present</font>), Erik Jonsson School of Engineering and Computer Science, University of Texas at Dallas, USA.
-* Student Member of Academic Appeals Panel (<font color="#0000e6">2019</font>), Erik Jonsson School of Engineering and Computer Science, University of Texas at Dallas, USA.
+* Student Member, New Student Engagement Board (<font color="#0000e6">2020 - present</font>), University of Texas at Dallas, USA.
+* Student Speaker, ECE New Graduate Student Orientation (<font color="#0000e6">2019 - present</font>), Erik Jonsson School of Engineering and Computer Science, University of Texas at Dallas, USA.
+* Student Member, Academic Appeals Panel (<font color="#0000e6">2019</font>), Erik Jonsson School of Engineering and Computer Science, University of Texas at Dallas, USA.
 * Traditions Committee Member (<font color="#0000e6">2018</font>), Student Union and Activities Advisory Board, University of Texas at Dallas, USA.
 * Career Center Expo Ambassador (<font color="#0000e6">2018</font>), Career Center, University of Texas at Dallas, USA.
  
