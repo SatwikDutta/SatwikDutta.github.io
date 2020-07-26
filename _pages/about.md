@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year Ph.D. candidate in Electrical Engineering (Speech/Signal Processing) at the University of Texas at Dallas (*UT Dallas*) under Dr. John H.L. Hansen and affiliated with the Center for Robust Speech Systems. My research interests include Digital Signal Processing, Speech Processing, Speech Recognition, Machine Learning, Silent Speech Interfaces, and Speech Disorders. Currently I am working on various algorithms to understand speech and language development in children.   
+I am a first-year Ph.D. candidate in Electrical Engineering (Speech/Signal Processing) at the University of Texas at Dallas (**UT Dallas**) under [Dr. John H.L. Hansen](https://personal.utdallas.edu/~john.hansen/) and affiliated with the [Center for Robust Speech Systems](https://crss.utdallas.edu/). My research interests include Digital Signal Processing, Speech Processing, Speech Recognition, Machine Learning, Silent Speech Interfaces, and Speech Disorders. Currently I am working on various algorithms to understand speech and language development in children.   
 
-I also maintain an active collaboration with Dr. Lisa Goffman from the Callier Center for Communication Disorders. Previously, I have worked with Dr. Thomas F. Campbell from the Callier Center on a child speech assessment project.  I started my first research project with Dr. Jun Wang at the Speech Disorders & Technology Lab. Currently, I serve as the Vice-President of Administration and Erik Jonsson School Representative of the UT Dallas Graduate Student Assembly for the academic year 2020-2021.
+I also maintain an active collaboration with [Dr. Lisa Goffman](https://utdallas.edu/chairs/profiles/dr-lisa-goffman/) and [Dr. Thomas F. Campbell](https://utdallas.edu/chairs/profiles/dr-thomas-campbell/) from the [Callier Center for Communication Disorders](https://calliercenter.utdallas.edu/). I started my first research project with [Dr. Jun Wang](https://csd.utexas.edu/faculty/jun-wang) at the [Speech Disorders & Technology Lab](https://csd.utexas.edu/research/wang-lab/home). Currently, I also serve as the Vice-President of Administration and Erik Jonsson School Representative of the UT Dallas Graduate Student Assembly for the academic year 2020-2021.
 
 Upcoming Conferences 
 ------
