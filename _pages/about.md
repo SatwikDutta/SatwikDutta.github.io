@@ -12,7 +12,7 @@ I am a first-year Ph.D. candidate in Electrical Engineering (Speech/Signal Proce
 
 I maintain an active collaboration with [Dr. Lisa Goffman](https://utdallas.edu/chairs/profiles/dr-lisa-goffman/) and [Dr. Thomas F. Campbell](https://utdallas.edu/chairs/profiles/dr-thomas-campbell/) from the [Callier Center for Communication Disorders](https://calliercenter.utdallas.edu/). Previously, I worked with [Dr. Jun Wang](https://csd.utexas.edu/faculty/jun-wang) at the [Speech Disorders & Technology Lab](https://csd.utexas.edu/research/wang-lab/home). Currently, I also serve as the Vice-President of Administration and Erik Jonsson School Representative of the UT Dallas Graduate Student Assembly for the academic year 2020-2021.
 
-### [Upcoming Conferences](#upcoming-conferences) &nbsp;&nbsp;&nbsp; [Latest Updates](#latest-updates)  &nbsp;&nbsp;&nbsp; [Open for Internship/Job](#open-for-internship/job) 
+### [Upcoming Conferences](#upcoming-conferences) &nbsp;&nbsp;&nbsp; [Latest Updates](#latest-updates)  &nbsp;&nbsp;&nbsp; [Open for Internship or Job](#open-for-internship-or-job) 
 
 Upcoming Conferences 
 ------
@@ -29,7 +29,7 @@ Latest Updates
 * On <font color="blue">April 10, 2020</font>, I successfully defended by **Masters Thesis** in Electrical Engineering at UT Dallas.
 * On <font color="blue">Feb 19, 2020</font>, my first **research abstract** as a co-author was presented at the Signal Analytics Workshop, [2020 Motor Speech Conference](https://www.madonna.org/motor-speech-conference).
 
-Open for Internship/Job
+Open for Internship or Job
 ------
 
-Currently, I am available for a Summer Internship in 2021. 
+Currently, I am available for a <font color="red">Summer Internship in 2021</font>. 
