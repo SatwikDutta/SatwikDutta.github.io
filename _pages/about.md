@@ -14,10 +14,10 @@ I maintain an active collaboration with [Dr. Lisa Goffman](https://utdallas.edu/
 
 ### [Upcoming Conferences](#upcoming-conferences) &nbsp;&nbsp;&nbsp; [Latest Updates](#latest-updates)  &nbsp;&nbsp;&nbsp; [Open for Internship or Job](#open-for-internship-or-job) 
 
-Upcoming Conferences 
+Upcoming Conferences Presentations 
 ------
 
-To be announced soon. 
+* The 179th Meeting of the Acoustical Society of America, December 7, 2020.
 
 Latest Updates
 ------
