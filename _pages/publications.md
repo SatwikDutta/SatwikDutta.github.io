@@ -23,4 +23,6 @@ TBA
 Research Abstracts
 ------
 
+(R2) <b>Satwik Dutta</b>, Prasanna Kothalkar, Johanna Rudolph, Christine Dollaghan, Jennifer McGlothlin, Thomas Campbell, and John H.L. Hansen, "Advancing speech activity detection for automatic speech assessment of pre-school children prompted speech using COMBO-SAD", The 179th Meeting of the Acoustical Society of America, Dec 7, 2020.
+
 (R1) Kristin Teplansky, <b>Satwik Dutta</b>, Beiming Cao, and Jun Wang, "[Tongue and Lip Motion Patterns of Alaryngeal and Silent Speech](https://satwikdutta.github.io/files/2020_MotorSpeech.pdf)", 2020 Motor Speech Conference & Signal Analytics for Motor Speech Workshop, Feb 19, 2020.
