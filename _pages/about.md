@@ -12,7 +12,7 @@ I am a first-year Ph.D. candidate in Electrical Engineering (Speech/Signal Proce
 
 I maintain an active collaboration with [Dr. Lisa Goffman](https://utdallas.edu/chairs/profiles/dr-lisa-goffman/) and [Dr. Thomas F. Campbell](https://utdallas.edu/chairs/profiles/dr-thomas-campbell/) from the [Callier Center for Communication Disorders](https://calliercenter.utdallas.edu/). Previously, I worked with [Dr. Jun Wang](https://csd.utexas.edu/faculty/jun-wang) at the [Speech Disorders & Technology Lab](https://csd.utexas.edu/research/wang-lab/home). Currently, I also serve as the Vice-President of Administration and Erik Jonsson School Representative of the UT Dallas Graduate Student Assembly for the academic year 2020-2021.
 
-### [Upcoming Conferences](#upcoming-conferences) &nbsp;&nbsp;&nbsp; [Latest Updates](#latest-updates)  &nbsp;&nbsp;&nbsp; [Open for Internship or Job](#open-for-internship-or-job) 
+### [Upcoming Conferences Presentations](#upcoming-conferences-presentations) &nbsp;&nbsp;&nbsp; [Latest Updates](#latest-updates)  &nbsp;&nbsp;&nbsp; [Open for Internship or Job](#open-for-internship-or-job) 
 
 Upcoming Conferences Presentations 
 ------
