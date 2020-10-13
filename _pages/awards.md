@@ -7,6 +7,7 @@ author_profile: true
 
 ### <span style="color: rgb(0, 179, 60);">&#9818;</span>Academic/Research &nbsp;&nbsp; <span style="color: rgb(0, 0, 230);">&#9873;</span>Professional &nbsp;&nbsp; <span style="color: rgb(204, 0, 204);">&#9730;</span>Community Service &nbsp;&nbsp; <span style="color: rgb(230, 138, 0);">&#x2605;</span>Team award 
 
+(A10) <span style="color: rgb(0, 179, 60);">&#9818;</span> <b>Fall 2020 LDC Data Scholarship</b> (<font color="#0000e6">2019</font>), Linguistic Data Consortium, University of Pennsylvania, USA.<br>  
 (A9) <span style="color: rgb(0, 179, 60);">&#9818;</span> <b>Pathways to Research Graduate Scholarship</b> (<font color="#0000e6">2019</font>), Erik Jonsson School of Engineering and Computer Science, University of Texas at Dallas, USA.<br>  
 (A8) <span style="color: rgb(0, 179, 60);">&#9818;</span> <b>Jonsson School Graduate Scholarship</b> (<font color="#0000e6">2018</font>), Erik Jonsson School of Engineering and Computer Science, University of Texas at Dallas, USA.<br>  
 (A7) <span style="color: rgb(0, 0, 230);">&#9873;</span> <b>Competent Leader</b> (<font color="#0000e6">2018</font>), Toastmasters International, USA.<br>  
