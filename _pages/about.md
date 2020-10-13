@@ -17,11 +17,14 @@ I maintain an active collaboration with [Dr. Lisa Goffman](https://utdallas.edu/
 Upcoming Conference Presentations 
 ------
 
-* The 179th Meeting of the Acoustical Society of America, December 7, 2020.
+* The 179th Meeting of the Acoustical Society of America, December 7, 2020 (Virtual).
 
 Latest Updates
 ------
 
+* On <font color="blue">October 13, 2020</font>, I received the **Fall 2020 LDC Data Scholarship** from the Linguistic Data Consortium (LDC), University of Pennsylvania. 
+* On <font color="blue">October 8, 2020</font>, a **research abstract** submitted to the Acoustical Society of America meeting as a first author was accepted. 
+* On <font color="blue">August 4, 2020</font>, I was invited to serve as the **Graduate Student Representative** on the Research Continuity Working Group meetings of the Office of Research at UT Dallas.  
 * On <font color="blue">May 16, 2020</font>, I graduated with a **Master of Science degree** in Electrical Engineering from UT Dallas.
 * On <font color="blue">May 15, 2020</font>, I was elected as the new **Vice-President of Administration** of the Graduate Student Assembly Executive Board at UT Dallas for the upcoming 2020-2021 academic year.
 * On <font color="blue">May 2, 2020</font>, I was elected as the new **School Representative** of the Erik Jonsson School of Engineering and Computer Science to the Graduate Student Assembly at UT Dallas for the upcoming 2020-2021 academic year.
