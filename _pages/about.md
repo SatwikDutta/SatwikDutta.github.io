@@ -22,7 +22,7 @@ Upcoming Conference Presentations
 Latest Updates
 ------
 
-* On <font color="blue">October 13, 2020</font>, I received the **Fall 2020 LDC Data Scholarship** from the Linguistic Data Consortium (LDC), University of Pennsylvania. 
+* On <font color="blue">October 13, 2020</font>, I was awarded the **Fall 2020 LDC Data Scholarship** by the Linguistic Data Consortium (LDC), University of Pennsylvania. 
 * On <font color="blue">October 8, 2020</font>, a **research abstract** submitted to the Acoustical Society of America meeting as a first author was accepted. 
 * On <font color="blue">August 4, 2020</font>, I was invited to serve as the **Graduate Student Representative** on the Research Continuity Working Group meetings of the Office of Research at UT Dallas.  
 * On <font color="blue">May 16, 2020</font>, I graduated with a **Master of Science degree** in Electrical Engineering from UT Dallas.
