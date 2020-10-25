@@ -22,8 +22,9 @@ Upcoming Conference Presentations
 Latest Updates
 ------
 
+* On <font color="blue">October 24, 2020</font>, I was a presenter and panelist at the [**VIRTUAL GEM GRAD Lab**](https://satwikdutta.github.io/files/2020_Oct_gem-uta-utd-grad-lab.pdf) of the National GEM Consortium hosted by the University of Texas at Arlington and the University of Texas at Dallas, and co-hosted by the University of Texas at San Antonio. 
 * On <font color="blue">October 13, 2020</font>, I was awarded the **Fall 2020 LDC Data Scholarship** by the Linguistic Data Consortium (LDC), University of Pennsylvania. 
-* On <font color="blue">October 8, 2020</font>, a **research abstract** submitted to the Acoustical Society of America meeting as a first author was accepted. 
+* On <font color="blue">October 8, 2020</font>, my **research abstract** submitted to the Acoustical Society of America meeting as a first author was accepted. 
 * On <font color="blue">August 4, 2020</font>, I was invited to serve as the **Graduate Student Representative** on the Research Continuity Working Group meetings of the Office of Research at UT Dallas.  
 * On <font color="blue">May 16, 2020</font>, I graduated with a **Master of Science degree** in Electrical Engineering from UT Dallas.
 * On <font color="blue">May 15, 2020</font>, I was elected as the new **Vice-President of Administration** of the Graduate Student Assembly Executive Board at UT Dallas for the upcoming 2020-2021 academic year.
