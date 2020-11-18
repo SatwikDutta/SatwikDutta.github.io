@@ -22,6 +22,7 @@ Upcoming Conference Presentations
 Latest Updates
 ------
 
+* On <font color="blue">November 5, 2020</font>, I passed my PhD qualifier examination in Electrical Engineering at the University of Texas at Dallas. 
 * On <font color="blue">October 24, 2020</font>, I was a presenter and panelist at the [VIRTUAL GEM GRAD Lab](https://satwikdutta.github.io/files/2020_Oct_gem-uta-utd-grad-lab.pdf) of the National GEM Consortium hosted by the University of Texas at Arlington and the University of Texas at Dallas, and co-hosted by the University of Texas at San Antonio. 
 * On <font color="blue">October 13, 2020</font>, I was awarded the [Fall 2020 LDC Data Scholarship](http://ldc-upenn.blogspot.com/2020/10/ldc-2020-october-newsletter.html) by the Linguistic Data Consortium (LDC), University of Pennsylvania. 
 * On <font color="blue">October 8, 2020</font>, my **research abstract** submitted to the Acoustical Society of America meeting as a first author was accepted. 
