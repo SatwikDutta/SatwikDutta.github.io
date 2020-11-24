@@ -22,6 +22,7 @@ Upcoming Conference Presentations
 Latest Updates
 ------
 
+* On <font color="blue">November 24, 2020</font>, I was awarded the ASA Student Participation Grant for the 179th meeting of the Acoustical Society of America.
 * On <font color="blue">November 18, 2020</font>, I was invited to membership into the University of Texas at Dallas chapter of The Honor Society of Phi Kappa Phi, the nation’s oldest, most selective, and most prestigious all-discipline honor society in recognition of my outstanding academic achievements.
 * On <font color="blue">November 5, 2020</font>, I passed my PhD qualifier examination in Electrical Engineering at the University of Texas at Dallas. 
 * On <font color="blue">October 24, 2020</font>, I was a presenter and panelist at the [VIRTUAL GEM GRAD Lab](https://satwikdutta.github.io/files/2020_Oct_gem-uta-utd-grad-lab.pdf) of the National GEM Consortium hosted by the University of Texas at Arlington and the University of Texas at Dallas, and co-hosted by the University of Texas at San Antonio. 
