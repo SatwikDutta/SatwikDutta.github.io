@@ -17,11 +17,12 @@ I maintain an active collaboration with [Dr. Lisa Goffman](https://utdallas.edu/
 Upcoming Conference Presentations 
 ------
 
-* The 179th Meeting of the Acoustical Society of America, December 7, 2020 (Virtual).
+TBA.
 
 Latest Updates
 ------
 
+* On <font color="blue">December 12, 2020</font>, a **research abstract** submitted to the ASEE Gulf Southwest Conference 2021 as a first author was accepted. 
 * On <font color="blue">November 24, 2020</font>, I was awarded the ASA Student Participation Grant for the 179th meeting of the Acoustical Society of America.
 * On <font color="blue">November 18, 2020</font>, I was invited to membership into the University of Texas at Dallas chapter of The Honor Society of Phi Kappa Phi, the nation’s oldest, most selective, and most prestigious all-discipline honor society in recognition of my outstanding academic achievements.
 * On <font color="blue">November 5, 2020</font>, I passed my PhD qualifier examination in Electrical Engineering at the University of Texas at Dallas. 
@@ -29,12 +30,7 @@ Latest Updates
 * On <font color="blue">October 13, 2020</font>, I was awarded the [Fall 2020 LDC Data Scholarship](http://ldc-upenn.blogspot.com/2020/10/ldc-2020-october-newsletter.html) by the Linguistic Data Consortium (LDC), University of Pennsylvania. 
 * On <font color="blue">October 8, 2020</font>, my **research abstract** submitted to the Acoustical Society of America meeting as a first author was accepted. 
 * On <font color="blue">August 4, 2020</font>, I was invited to serve as the **Graduate Student Representative** on the Research Continuity Working Group meetings of the Office of Research at UT Dallas.  
-* On <font color="blue">May 16, 2020</font>, I graduated with a **Master of Science degree** in Electrical Engineering from UT Dallas.
-* On <font color="blue">May 15, 2020</font>, I was elected as the new **Vice-President of Administration** of the Graduate Student Assembly Executive Board at UT Dallas for the upcoming 2020-2021 academic year.
-* On <font color="blue">May 2, 2020</font>, I was elected as the new **School Representative** of the Erik Jonsson School of Engineering and Computer Science to the Graduate Student Assembly at UT Dallas for the upcoming 2020-2021 academic year.
-* On <font color="blue">Apr 16, 2020</font>, my first **journal** as a co-author was published in [Sensors](https://doi.org/10.3390/s20082248).
-* On <font color="blue">April 10, 2020</font>, I successfully defended by **Masters Thesis** in Electrical Engineering at UT Dallas.
-* On <font color="blue">Feb 19, 2020</font>, my first **research abstract** as a co-author was presented at the Signal Analytics Workshop, [2020 Motor Speech Conference](https://www.madonna.org/motor-speech-conference).
+
 
 Open for Internship or Job
 ------
