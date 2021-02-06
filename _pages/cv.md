@@ -31,7 +31,7 @@ Experience
 * **Visiting Research Assistant** (<font color="#0000e6">2019 – present</font>), [Language in Motion Lab](https://bbs.utdallas.edu/language-in-motion/), Callier Center for Communication Disorders, University of Texas at Dallas, USA.
   - Principal Investigator: [Dr. Lisa Goffman](https://utdallas.edu/chairs/profiles/dr-lisa-goffman/).
   
-* **Visiting Research Assistant** (<font color="#0000e6">2019 – present</font>), [Callier Center for Communication Disorders](https://calliercenter.utdallas.edu/), University of Texas at Dallas, USA.
+* **Visiting Research Assistant** (<font color="#0000e6">2019 – 2020</font>), [Callier Center for Communication Disorders](https://calliercenter.utdallas.edu/), University of Texas at Dallas, USA.
   - Principal Investigator: [Dr. Thomas F. Campbell](https://utdallas.edu/chairs/profiles/dr-thomas-campbell/).
 
 * **Research Assistant** (<font color="#0000e6">2019</font>), [Speech Disorders & Technology Lab](https://csd.utexas.edu/research/wang-lab/home), Erik Jonsson School of Engineering and Computer Science, University of Texas at Dallas, USA.
