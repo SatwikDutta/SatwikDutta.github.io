@@ -22,13 +22,15 @@ TBA.
 Latest Updates
 ------
 
+* On <font color="blue">February 2, 2021</font>, I was awarded the **PhD Research Small Grant** by the Office of Graduate Education at the University of Texas at Dallas, USA. 
+* Starting <font color="blue">January, 2021</font>, I will serve as the **Public Relations Lead** on the inaugural Student Activities Committee (SAC) of the IEEE Engineering in Medicine and Biology Society (EMBS). 
 * On <font color="blue">December 12, 2020</font>, a **research abstract** submitted to the ASEE Gulf Southwest Conference 2021 as a first author was accepted. 
-* On <font color="blue">November 24, 2020</font>, I was awarded the ASA Student Participation Grant for the 179th meeting of the Acoustical Society of America.
-* On <font color="blue">November 18, 2020</font>, I was invited to membership into the University of Texas at Dallas chapter of The Honor Society of Phi Kappa Phi, the nation’s oldest, most selective, and most prestigious all-discipline honor society in recognition of my outstanding academic achievements.
-* On <font color="blue">November 5, 2020</font>, I passed my PhD qualifier examination in Electrical Engineering at the University of Texas at Dallas. 
-* On <font color="blue">October 24, 2020</font>, I was a presenter and panelist at the [VIRTUAL GEM GRAD Lab](https://satwikdutta.github.io/files/2020_Oct_gem-uta-utd-grad-lab.pdf) of the National GEM Consortium hosted by the University of Texas at Arlington and the University of Texas at Dallas, and co-hosted by the University of Texas at San Antonio. 
-* On <font color="blue">October 13, 2020</font>, I was awarded the [Fall 2020 LDC Data Scholarship](http://ldc-upenn.blogspot.com/2020/10/ldc-2020-october-newsletter.html) by the Linguistic Data Consortium (LDC), University of Pennsylvania. 
-* On <font color="blue">October 8, 2020</font>, my **research abstract** submitted to the Acoustical Society of America meeting as a first author was accepted. 
+* On <font color="blue">November 24, 2020</font>, I was awarded the **ASA Student Participation Grant** for the 179th meeting of the Acoustical Society of America.
+* On <font color="blue">November 18, 2020</font>, I was invited to membership into the University of Texas at Dallas chapter of **The Honor Society of Phi Kappa Phi**, the nation’s oldest, most selective, and most prestigious all-discipline honor society in recognition of my outstanding academic achievements.
+* On <font color="blue">November 5, 2020</font>, I passed my **PhD qualifier** examination in Electrical Engineering at the University of Texas at Dallas. 
+* On <font color="blue">October 24, 2020</font>, I was a presenter and panelist at the **[VIRTUAL GEM GRAD Lab](https://satwikdutta.github.io/files/2020_Oct_gem-uta-utd-grad-lab.pdf)** of the National GEM Consortium hosted by the University of Texas at Arlington and the University of Texas at Dallas, and co-hosted by the University of Texas at San Antonio. 
+* On <font color="blue">October 13, 2020</font>, I was awarded the ***[Fall 2020 LDC Data Scholarship](http://ldc-upenn.blogspot.com/2020/10/ldc-2020-october-newsletter.html)** by the Linguistic Data Consortium (LDC), University of Pennsylvania. 
+* On <font color="blue">October 8, 2020</font>, a **research abstract** submitted to the Acoustical Society of America meeting as a first author was accepted. 
 * On <font color="blue">August 4, 2020</font>, I was invited to serve as the **Graduate Student Representative** on the Research Continuity Working Group meetings of the Office of Research at UT Dallas.  
 
 
