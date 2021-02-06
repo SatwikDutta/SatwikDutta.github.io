@@ -7,7 +7,7 @@ author_profile: true
 
 ### <span style="color: rgb(0, 179, 60);">&#9818;</span>Academia &nbsp;&nbsp; <span style="color: rgb(153, 102, 51);">&#9875;</span>Research Grant &nbsp;&nbsp; <span style="color: rgb(255, 51, 0);">&#9992;</span>Travel Grant &nbsp;&nbsp;<span style="color: rgb(0, 0, 230);">&#9873;</span>Professional &nbsp;&nbsp; <span style="color: rgb(204, 0, 204);">&#9730;</span>Community Service &nbsp;&nbsp; <span style="color: rgb(230, 138, 0);">&#x2605;</span>Team Award 
 
-(A13) <span style="color: rgb(153, 102, 51);">&#9875;</span> <b>PhD Research Small Grant</b> (<font color="#0000e6">2021</font>), Office of Graduate Education, University of Texas at Dallas, USA.<br> 
+(A13) <span style="color: rgb(153, 102, 51);">&#9875;</span> <b>PhD Research Small Grant</b> (<font color="#0000e6">2021</font>), Office of Graduate Education, University of Texas at Dallas, USA.<br>  
 (A12) <span style="color: rgb(255, 51, 0);">&#9992;</span> <b>ASA Student Participation Grant</b> (<font color="#0000e6">2020</font>), The 179th Meeting of the Acoustical Society of America, USA.<br>  
 (A11) <span style="color: rgb(0, 179, 60);">&#9818;</span><span style="color: rgb(0, 0, 230);">&#9873;</span> <b>Invited Member</b> (<font color="#0000e6">2020</font>), University of Texas at Dallas chapter of The Honor Society of Phi Kappa Phi, USA.<br>  
 (A10) <span style="color: rgb(0, 179, 60);">&#9818;</span> <b>Fall 2020 LDC Data Scholarship</b> (<font color="#0000e6">2020</font>), Linguistic Data Consortium, University of Pennsylvania, USA.<br>  
