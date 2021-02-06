@@ -51,11 +51,10 @@ Experience
 Service
 ------
 
-* Student Member, New Student Engagement Board (<font color="#0000e6">2020 - present</font>), University of Texas at Dallas, USA.
-* Student Speaker, ECE New Graduate Student Orientation (<font color="#0000e6">2019 - present</font>), Erik Jonsson School of Engineering and Computer Science, University of Texas at Dallas, USA.
-* Student Member, Academic Appeals Panel (<font color="#0000e6">2019</font>), Erik Jonsson School of Engineering and Computer Science, University of Texas at Dallas, USA.
-* Traditions Committee Member (<font color="#0000e6">2018</font>), Student Union and Activities Advisory Board, University of Texas at Dallas, USA.
-* Career Center Expo Ambassador (<font color="#0000e6">2018</font>), Career Center, University of Texas at Dallas, USA.
+* Student Chapter Review Committee (<font color="#0000e6">2021</font>), IEEE Engineering in Medicine and Biology Society. 
+* Assistant Dean Search Committee (<font color="#0000e6">2020</font>), Erik Jonsson School of Engineering and Computer Science, University of Texas at Dallas, USA.
+* Academic Appeals Panel (<font color="#0000e6">2019</font>), Erik Jonsson School of Engineering and Computer Science, University of Texas at Dallas, USA.
+* Traditions Committee (<font color="#0000e6">2018</font>), Student Union and Activities Advisory Board, University of Texas at Dallas, USA.
  
 References
 -------
