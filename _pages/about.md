@@ -22,6 +22,7 @@ TBA.
 Latest Updates
 ------
 
+* On <font color="blue">February 11, 2021</font>, I was awarded the **2021 Graduate Research Grant** by the Honor Society of Phi Kappa Phi, USA.
 * On <font color="blue">February 2, 2021</font>, I was awarded the **PhD Research Small Grant** by the Office of Graduate Education at the University of Texas at Dallas, USA. 
 * Starting <font color="blue">January, 2021</font>, I will serve as the **Public Relations Lead** on the inaugural Student Activities Committee (SAC) of the IEEE Engineering in Medicine and Biology Society (EMBS). 
 * On <font color="blue">December 12, 2020</font>, a **research abstract** submitted to the ASEE Gulf Southwest Conference 2021 as a first author was accepted. 
