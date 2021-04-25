@@ -5,8 +5,9 @@ permalink: /awards/
 author_profile: true
 ---
 
-### <span style="color: rgb(0, 179, 60);">&#9818;</span>Academia &nbsp;&nbsp; <span style="color: rgb(153, 102, 51);">&#9875;</span>Research Grant &nbsp;&nbsp; <span style="color: rgb(255, 51, 0);">&#9992;</span>Travel Grant &nbsp;&nbsp;<span style="color: rgb(0, 0, 230);">&#9873;</span>Professional &nbsp;&nbsp; <span style="color: rgb(204, 0, 204);">&#9730;</span>Community Service &nbsp;&nbsp; <span style="color: rgb(230, 138, 0);">&#x2605;</span>Team Award 
+### <span style="color: rgb(0, 179, 60);">&#9818;</span>Academic Scholarship/Fellowship &nbsp;&nbsp; <span style="color: rgb(153, 102, 51);">&#9875;</span>Research Grant &nbsp;&nbsp; <span style="color: rgb(255, 51, 0);">&#9992;</span>Travel Grant &nbsp;&nbsp;<span style="color: rgb(0, 0, 230);">&#9873;</span>Professional Service &nbsp;&nbsp; <span style="color: rgb(204, 0, 204);">&#9730;</span>Community Service &nbsp;&nbsp; <span style="color: rgb(230, 138, 0);">&#x2605;</span>Team Award 
 
+(A14) <span style="color: rgb(153, 102, 51);">&#9875;</span> <b>Cyrus D. Cantrell III Academic Enhancement Grant</b> (<font color="#0000e6">2021</font>), Chapter 316, The Honor Society of Phi Kappa Phi, USA.<br>
 (A14) <span style="color: rgb(153, 102, 51);">&#9875;</span> <b>2021 Graduate Research Grant Winner</b> (<font color="#0000e6">2021</font>), The Honor Society of Phi Kappa Phi, USA.<br>  
 (A13) <span style="color: rgb(153, 102, 51);">&#9875;</span> <b>PhD Research Small Grant</b> (<font color="#0000e6">2021</font>), Office of Graduate Education, University of Texas at Dallas, USA.<br>  
 (A12) <span style="color: rgb(255, 51, 0);">&#9992;</span> <b>ASA Student Participation Grant</b> (<font color="#0000e6">2020</font>), The 179th Meeting of the Acoustical Society of America, USA.<br>  
