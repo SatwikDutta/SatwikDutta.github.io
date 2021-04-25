@@ -25,7 +25,6 @@ Latest Updates
 * On <font color="blue">February 11, 2021</font>, I was awarded the **2021 Graduate Research Grant** by the Honor Society of Phi Kappa Phi, USA.
 * On <font color="blue">February 2, 2021</font>, I was awarded the **PhD Research Small Grant** by the Office of Graduate Education at the University of Texas at Dallas, USA. 
 * Starting <font color="blue">January, 2021</font>, I will serve as the **Public Relations Lead** on the inaugural Student Activities Committee (SAC) of the IEEE Engineering in Medicine and Biology Society (EMBS). 
-* On <font color="blue">December 12, 2020</font>, a **research abstract** submitted to the ASEE Gulf Southwest Conference 2021 as a first author was accepted. 
 * On <font color="blue">November 24, 2020</font>, I was awarded the **ASA Student Participation Grant** for the 179th meeting of the Acoustical Society of America.
 * On <font color="blue">November 18, 2020</font>, I was invited to membership into the University of Texas at Dallas chapter of **The Honor Society of Phi Kappa Phi**, the nation’s oldest, most selective, and most prestigious all-discipline honor society in recognition of my outstanding academic achievements.
 * On <font color="blue">November 5, 2020</font>, I passed my **PhD qualifier** examination in Electrical Engineering at the University of Texas at Dallas. 
