@@ -12,6 +12,7 @@ Journal Articles
 ------
 
 (J2) Jingzhi An & <b>Satwik Dutta</b>. "[Crafting the Future—Opportunities for Students by the Reinvigorated IEEE EMBS Student Activities Committee](https://doi.org/10.1109/MPULS.2021.3067177)", IEEE pulse 12, no. 2 (2021): 38-40. 
+
 (J1) Debadatta Dash, Paul Ferrari, <b>Satwik Dutta</b>, & Jun Wang. "[NeuroVAD: Real-time voice activity detection from non-invasive neuromagnetic signals](https://doi.org/10.3390/s20082248)", Sensors 2020, 20, 2248. 
 
 
