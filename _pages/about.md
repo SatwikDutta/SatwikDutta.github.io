@@ -12,7 +12,7 @@ I am a second-year Ph.D. candidate in Electrical Engineering (Speech/Signal Proc
 
 I have worked on collaborative projects with [Dr. Lisa Goffman](https://utdallas.edu/chairs/profiles/dr-lisa-goffman/) and [Dr. Thomas F. Campbell](https://utdallas.edu/chairs/profiles/dr-thomas-campbell/) from the [Callier Center for Communication Disorders](https://calliercenter.utdallas.edu/) at the University of Texas at Dallas. I started my research journey under the supervision of [Dr. Jun Wang](https://csd.utexas.edu/faculty/jun-wang) at the [Speech Disorders & Technology Lab](https://csd.utexas.edu/research/wang-lab/home). 
 
-I currently serve as the Lead for Public Relations, Outreach & Communications on the Students Activities Committee of the IEEE Engineering in Medicine & Biology Society. In the academmic year 2020-21, I served as the Vice-President of Administration and Erik Jonsson School Representative of the UT Dallas Graduate Student Assembly for the academic year 2020-2021. 
+I currently serve as the Lead for Public Relations, Outreach & Communications on the Students Activities Committee of the IEEE Engineering in Medicine & Biology Society. In the academic year 2020-21, I served as the Vice-President of Administration and Erik Jonsson School Representative of the UT Dallas Graduate Student Assembly for the academic year 2020-2021. 
 
 ### [Upcoming Conference Presentations](#upcoming-conference-presentations) &nbsp;&nbsp;&nbsp; [Latest Updates](#latest-updates)  &nbsp;&nbsp;&nbsp; [Open for Internship or Job](#open-for-internship-or-job) 
 
