@@ -24,7 +24,7 @@ TBA.
 Latest Updates
 ------
 
-* On <font color="blue">July 2, 2021</font>, I was awarded the **Louis Beecherl, Jr. Graduate Fellowship** by the Erik Jonsson School of Engineering and Computer Science at the University of Texas at Dallas, USA for the academic year 2020-21.
+* On <font color="blue">July 2, 2021</font>, I was awarded the **Louis Beecherl, Jr. Graduate Fellowship** by the Erik Jonsson School of Engineering and Computer Science at the University of Texas at Dallas, USA for the academic year 2021-22.
 * On <font color="blue">April 27, 2021</font>, I was awarded the **Patty Atchley Service to Student Life Award** by the University of Texas at Dallas, USA.
 * On <font color="blue">February 11, 2021</font>, I was awarded the **2021 Graduate Research Grant** by the Honor Society of Phi Kappa Phi, USA.
 * On <font color="blue">February 2, 2021</font>, I was awarded the **PhD Research Small Grant** by the Office of Graduate Education at the University of Texas at Dallas, USA. 
