@@ -24,7 +24,7 @@ TBA.
 Latest Updates
 ------
 
-* On <font color="blue">Sep 7, 2021</font>, I join [Appen](https://appen.com/) as a **Speech Data Science Intern** in their Data Science Engineering division.
+* On <font color="blue">Sep 7, 2021</font>, I joined [Appen](https://appen.com/) as a **Speech Data Scientist Intern** in their Data Science Engineering division.
 * On <font color="blue">July 2, 2021</font>, I was awarded the **Louis Beecherl, Jr. Graduate Fellowship** by the Erik Jonsson School of Engineering and Computer Science at the University of Texas at Dallas, USA for the academic year 2021-22.
 * On <font color="blue">April 27, 2021</font>, I was awarded the **Patty Atchley Service to Student Life Award** by the University of Texas at Dallas, USA.
 * On <font color="blue">February 11, 2021</font>, I was awarded the **2021 Graduate Research Grant** by the Honor Society of Phi Kappa Phi, USA.
