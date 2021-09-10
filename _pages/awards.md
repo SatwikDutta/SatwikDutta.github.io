@@ -7,6 +7,8 @@ author_profile: true
 
 ### <span style="color: rgb(0, 179, 60);">&#9818;</span>Academic Scholarship/Fellowship &nbsp;&nbsp; <span style="color: rgb(153, 102, 51);">&#9875;</span>Research Grant &nbsp;&nbsp; <span style="color: rgb(255, 51, 0);">&#9992;</span>Travel Grant &nbsp;&nbsp;<span style="color: rgb(0, 0, 230);">&#9873;</span>Professional Service &nbsp;&nbsp; <span style="color: rgb(204, 0, 204);">&#9730;</span>Community Service &nbsp;&nbsp; <span style="color: rgb(230, 138, 0);">&#x2605;</span>Team Award 
 
+(A19) <span style="color: rgb(0, 179, 60);">&#9818;</span> <span style="color: rgb(0, 0, 230);">&#9873;</span> <b>Darrelene Rachavong Student Leadership Endowment Scholarship</b> (<font color="#0000e6">2021</font>), University of Texas at Dallas, USA.<br>  
+(A18) <span style="color: rgb(153, 102, 51);">&#9875;</span> <b>2021 Love of Learning Award Winner</b> (<font color="#0000e6">2021</font>), The Honor Society of Phi Kappa Phi, USA.<br>  
 (A17) <span style="color: rgb(0, 179, 60);">&#9818;</span> <b>Louis Beecherl, Jr. Graduate Fellowship</b> (<font color="#0000e6">2021</font>), Erik Jonsson School of Engineering and Computer Science, University of Texas at Dallas, USA.<br>  
 (A16) <span style="color: rgb(0, 0, 230);">&#9873;</span> <b>Patty Atchley Service to Student Life Award</b> (<font color="#0000e6">2021</font>), University of Texas at Dallas, USA.<br>  
 (A15) <span style="color: rgb(153, 102, 51);">&#9875;</span> <b>Cyrus D. Cantrell III Academic Enhancement Grant</b> (<font color="#0000e6">2021</font>), Chapter 316, The Honor Society of Phi Kappa Phi, USA.<br>  
