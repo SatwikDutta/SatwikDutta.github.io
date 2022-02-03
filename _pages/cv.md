@@ -28,6 +28,9 @@ Experience
 * **Research Assistant** (<font color="#0000e6">2019 – present</font>), Robust Speech Technologies Lab, [Center for Robust Speech Systems](https://crss.utdallas.edu/), Erik Jonsson School of Engineering and Computer Science, University of Texas at Dallas, USA.
   - Principal Investigator: [Dr. John H. L. Hansen](https://personal.utdallas.edu/~john.hansen/).
   
+* **Speech Research Scientist Intern** (<font color="#0000e6">2021</font>), [Appen](https://appen.com/), USA.
+  - Mentor: [Dr. Chi Zhang](https://scholar.google.com/citations?user=G9LxAn8AAAAJ&hl=zh-CN).
+
 * **Visiting Research Assistant** (<font color="#0000e6">2019 – 2021</font>), [Callier Center for Communication Disorders](https://calliercenter.utdallas.edu/), University of Texas at Dallas, USA.
   - Principal Investigator: [Dr. Thomas F. Campbell](https://utdallas.edu/chairs/profiles/dr-thomas-campbell/).
 
