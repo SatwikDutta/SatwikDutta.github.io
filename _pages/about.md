@@ -19,7 +19,8 @@ I currently serve as the Lead for Public Relations, Outreach & Communications on
 Upcoming Conference Presentations 
 ------
 
-TBA.
+* 2022 American Society for Engineering Education (ASEE) Gulf-Southwest (GSW) Section Conference, 2022 Mar 16-18, Prairie View, TX. 
+* Conference on Research Innovations in Early Intervention, 2022 Feb 10-12, San Diego, CA. 
 
 Latest Updates
 ------
@@ -38,4 +39,4 @@ Latest Updates
 Open for Internship or Job
 ------
 
-Currently, I am available for a <font color="red">Summer Internship in 2022</font>. 
+Currently, I am available for a <font color="red">Summer Internship in 2023</font>. 
