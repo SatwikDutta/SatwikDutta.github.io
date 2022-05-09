@@ -19,6 +19,7 @@ I currently serve as the Lead for Public Relations, Outreach & Communications on
 Upcoming Conference Presentations 
 ------
 
+* 2022 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL), 2022 Jul 10-15, Seattle, WA. 
 * 2022 American Society for Engineering Education (ASEE) Gulf-Southwest (GSW) Section Conference, 2022 Mar 16-18, Prairie View, TX. 
 * Conference on Research Innovations in Early Intervention, 2022 Feb 10-12, San Diego, CA. 
 
