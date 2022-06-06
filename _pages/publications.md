@@ -25,12 +25,20 @@ Articles
 Conference Papers
 ------
 
-TBA
+(CP3) <b>Satwik Dutta</b>, Dwight Irvin, Jay Buzhardt and John H.L. Hansen. “Activity focused Speech Recognition of Preschool Children in Early Childhood Classrooms.” 17th Workshop on Innovative Use of NLP for Building Educational Applications, July 2022.
+
+(CP2) Sarah Tao, <b>Satwik Dutta</b>, Yagmur Seven, Dwight Irvin, Jay Buzhardt, and John H.L. Hansen, "[Quantifying Engagement in Preschool Classrooms-Conversational Turn-Taking \& Topic Initiations](https://peer.asee.org/39202)", 2022 ASEE Gulf Southwest Annual Conference, Mar 2022.
+
+(CP1) Prasanna Kothalkar, Sathvik Datla, <b>Satwik Dutta</b>, Yagmur Seven, Dwight Irvin, Jay Buzhardt and John Hansen, “[Measuring frequency of child-directed WH-words for alternate preschool locations using speech recognition and location tracking technologies](https://doi.org/10.1145/3461615.3485440)”, In Companion Publication of the 2021 International Conference on Multimodal Interaction (pp. 414-418), Oct 2021.
 
 
 Research Abstracts
 ------
 
-(R2) <b>Satwik Dutta</b>, Prasanna Kothalkar, Johanna Rudolph, Christine Dollaghan, Jennifer McGlothlin, Thomas Campbell, and John H.L. Hansen, "Advancing speech activity detection for automatic speech assessment of pre-school children prompted speech using COMBO-SAD", The 179th Meeting of the Acoustical Society of America, Dec 7, 2020.
+(R4) Jay Buzhardt, Dwight Irvin, Prasanna Kothalkar, Jacob Reyna, <b>Satwik Dutta</b>, John Hansen, Yagmur Seven, and Kyle Consolver, "Automatic Speech Recognition During Parent Reading Activities: Smartphones vs. LENA", Conference on Research Innovations in Early Intervention (CRIEI), Feb 2022.
 
-(R1) Kristin Teplansky, <b>Satwik Dutta</b>, Beiming Cao, and Jun Wang, "[Tongue and Lip Motion Patterns of Alaryngeal and Silent Speech](https://satwikdutta.github.io/files/2020_MotorSpeech.pdf)", 2020 Motor Speech Conference & Signal Analytics for Motor Speech Workshop, Feb 19, 2020.
+(R3) <b>Satwik Dutta</b>, Dwight Irvin, and John H. L. Hansen, “[Advancing towards automatic speech recognition of children in naturalistic preschool environment](https://doi.org/10.1121/10.0007952)”, The 181th Meeting of the Acoustical Society of America, Dec 2021.
+
+(R2) <b>Satwik Dutta</b>, Prasanna Kothalkar, Johanna Rudolph, Christine Dollaghan, Jennifer McGlothlin, Thomas Campbell, and John H.L. Hansen, "[Advancing speech activity detection for automatic speech assessment of pre-school children prompted speech using COMBO-SAD](https://doi.org/10.1121/1.5146831)", The 179th Meeting of the Acoustical Society of America, Dec 2020.
+
+(R1) Kristin Teplansky, <b>Satwik Dutta</b>, Beiming Cao, and Jun Wang, "[Tongue and Lip Motion Patterns of Alaryngeal and Silent Speech](https://satwikdutta.github.io/files/2020_MotorSpeech.pdf)", 2020 Motor Speech Conference & Signal Analytics for Motor Speech Workshop, Feb 2020.
