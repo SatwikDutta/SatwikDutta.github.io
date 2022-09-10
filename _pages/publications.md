@@ -25,7 +25,11 @@ Articles
 Conference Papers
 ------
 
-(CP3) <b>Satwik Dutta</b>, Dwight Irvin, Jay Buzhardt and John H.L. Hansen. “Activity focused Speech Recognition of Preschool Children in Early Childhood Classrooms.” 17th Workshop on Innovative Use of NLP for Building Educational Applications, July 2022.
+(CP5) <b>Satwik Dutta</b>, Jacob C. Reyna, Jay F. Buzhardt, Dwight Irvin, and John H.L. Hansen. “Can Smartphones be a cost-effective alternative to LENA for Early Childhood Language Intervention?” 2022 Speech for Social Good Workshop, September 2022.
+
+(CP4) <b>Satwik Dutta</b>, Sarah Anne Tao, Jacob C. Reyna, Rebecca Elizabeth Hacker, Dwight W. Irvin, Jay F. Buzhardt and John H.L. Hansen. “Challenges remain in Building ASR for Spontaneous Preschool Children Speech in Naturalistic Educational Environments.” 2022 Interspeech, September 2022.
+
+(CP3) <b>Satwik Dutta</b>, Dwight Irvin, Jay Buzhardt and John H.L. Hansen, “[Activity focused Speech Recognition of Preschool Children in Early Childhood Classrooms](http://dx.doi.org/10.18653/v1/2022.bea-1.13)”, 17th Workshop on Innovative Use of NLP for Building Educational Applications, July 2022.
 
 (CP2) Sarah Tao, <b>Satwik Dutta</b>, Yagmur Seven, Dwight Irvin, Jay Buzhardt, and John H.L. Hansen, "[Quantifying Engagement in Preschool Classrooms-Conversational Turn-Taking \& Topic Initiations](https://peer.asee.org/39202)", 2022 ASEE Gulf Southwest Annual Conference, Mar 2022.
 
@@ -34,6 +38,8 @@ Conference Papers
 
 Research Abstracts
 ------
+
+(R5) <b>Satwik Dutta</b>, Dwight W. Irvin, and John H. L. Hansen, "Preschool Children Speech Recognition for Early Childhood Intervention: Motivation and Challenges", 2022 NAACL Student Research Workshop (SRW), July 2022.
 
 (R4) Jay Buzhardt, Dwight Irvin, Prasanna Kothalkar, Jacob Reyna, <b>Satwik Dutta</b>, John Hansen, Yagmur Seven, and Kyle Consolver, "Automatic Speech Recognition During Parent Reading Activities: Smartphones vs. LENA", Conference on Research Innovations in Early Intervention (CRIEI), Feb 2022.
 
