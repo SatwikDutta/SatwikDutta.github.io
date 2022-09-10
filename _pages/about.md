@@ -8,20 +8,23 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year Ph.D. candidate in Electrical Engineering and Louis Beecherl, Jr. Graduate Fellow at the University of Texas at Dallas (**UT Dallas**) under [Dr. John H.L. Hansen](https://personal.utdallas.edu/~john.hansen/). I am primarily affiliated with the [Center for Robust Speech Systems](https://crss.utdallas.edu/). My research interests include Digital Signal Processing, Speech Processing, Speech Recognition, Machine Learning, Silent Speech Interfaces, and Speech Disorders. Currently I am working on various algorithms to understand speech and language development in pre-school children. I maintain an active collaboration with [Dr. Dwight Irvin](https://juniper.ku.edu/people/dwight-irvin) and [Dr. Yagmur Seven](https://juniper.ku.edu/people/yagmur-seven) from the [Juniper Gardens Children's Project](https://juniper.ku.edu/), a part of the KU Life Span Institute at the University of Kansas.
+I am a third-year Ph.D. student in Electrical Engineering at the [University of Texas at Dallas](https://www.utdallas.edu) (**UT Dallas**) under the supervision of [Dr. John H.L. Hansen](https://personal.utdallas.edu/~john.hansen/). I am primarily affiliated with the [Center for Robust Speech Systems](https://crss.utdallas.edu/). My research interests include Speech Processing & Recognition, Machine Learning, and Speech Disorders. Currently I am working on various speech processing algorithms to understand adult-child interactions in naturalistic environments (such as classrooms, households, etc.) and it's applications on early childhood language intervention and beyond. I was awarded the Louis Beecherl, Jr. Graduate Fellowship for the academic year 2021-22 by The Erik Jonsson School of Engineering & Computer Science at UT Dallas. I maintain an active collaboration with [Dr. Dwight Irvin](https://juniper.ku.edu/people/dwight-irvin) and [Dr. Jay Buzhardt](https://juniper.ku.edu/people/buzhardt-jay) from the [Juniper Gardens Children's Project](https://juniper.ku.edu/), a part of the KU Life Span Institute at the University of Kansas.
 
-I have worked on collaborative projects with [Dr. Lisa Goffman](https://utdallas.edu/chairs/profiles/dr-lisa-goffman/) and [Dr. Thomas F. Campbell](https://utdallas.edu/chairs/profiles/dr-thomas-campbell/) from the [Callier Center for Communication Disorders](https://calliercenter.utdallas.edu/) at the University of Texas at Dallas. I started my research journey under the supervision of [Dr. Jun Wang](https://csd.utexas.edu/faculty/jun-wang) at the [Speech Disorders & Technology Lab](https://csd.utexas.edu/research/wang-lab/home). 
+Previously, I have worked on collaborative projects with [Dr. Lisa Goffman](https://utdallas.edu/chairs/profiles/dr-lisa-goffman/) and [Dr. Thomas F. Campbell](https://utdallas.edu/chairs/profiles/dr-thomas-campbell/) from the [Callier Center for Communication Disorders](https://calliercenter.utdallas.edu/) at UT Dallas. In 2019, I was fortunate to start my first research journey under the supervision of [Dr. Jun Wang](https://csd.utexas.edu/faculty/jun-wang) at the [Speech Disorders & Technology Lab](https://csd.utexas.edu/research/wang-lab/home), currently at UT Austin. 
 
-I currently serve as the Lead for Public Relations, Outreach & Communications on the Students Activities Committee of the IEEE Engineering in Medicine & Biology Society. In the academic year 2020-21, I served as the Vice-President of Administration and Erik Jonsson School Representative of the UT Dallas Graduate Student Assembly. 
+Beyond my academic commitments, I currently serve as the Student Council Representative for the Technical Committee on Speech Communication for the [Acoustical Society of America](https://acousticalsociety.org). 
 
-### [Upcoming Conference Presentations](#upcoming-conference-presentations) &nbsp;&nbsp;&nbsp; [Latest Updates](#latest-updates)  &nbsp;&nbsp;&nbsp; [Open for Internship or Job](#open-for-internship-or-job) 
+### [Conference/Workshop Presentations](#upcoming-conference-presentations) &nbsp;&nbsp;&nbsp; [Latest Updates](#latest-updates)  &nbsp;&nbsp;&nbsp; [Open for Internship or Job](#open-for-internship-or-job) 
 
-Upcoming Conference Presentations 
+Conference/Workshop Presentations 
 ------
 
-* 2022 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL), 2022 Jul 10-15, Seattle, WA. 
-* 2022 American Society for Engineering Education (ASEE) Gulf-Southwest (GSW) Section Conference, 2022 Mar 16-18, Prairie View, TX. 
-* Conference on Research Innovations in Early Intervention, 2022 Feb 10-12, San Diego, CA. 
+* ___Platform Talk___ at 2022 Texas Advanced Computing Center Symposium for Texas Researchers (TACCSTER), Sep 29-30, Austin, TX   
+* ___Oral Presentation___ at 2022 Speech for Social Good Workshop (virtual, co-located with 2022 Interspeech)
+* ___Poster (virtual)___ at 2022 Interspeech, Sep 18-22, Incheon, Korea   
+* 2022 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL), 2022 Jul 10-15, Seattle, WA
+* 2022 American Society for Engineering Education (ASEE) Gulf-Southwest (GSW) Section Conference, 2022 Mar 16-18, Prairie View, TX
+* Conference on Research Innovations in Early Intervention, 2022 Feb 10-12, San Diego, CA
 
 Latest Updates
 ------
