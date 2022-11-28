@@ -14,17 +14,7 @@ Previously, I have worked on collaborative projects with [Dr. Lisa Goffman](http
 
 Beyond my academic commitments, I currently serve as the Student Council Representative for the Technical Committee on Speech Communication for the [Acoustical Society of America](https://acousticalsociety.org). 
 
-### [Conference/Workshop Presentations](#upcoming-conference-presentations) &nbsp;&nbsp;&nbsp; [Latest Updates](#latest-updates)  &nbsp;&nbsp;&nbsp; [Open for Internship or Job](#open-for-internship-or-job) 
-
-Conference/Workshop Presentations 
-------
-
-* ___Platform Talk___ at 2022 Texas Advanced Computing Center Symposium for Texas Researchers (TACCSTER), Sep 29-30, Austin, TX   
-* ___Oral Presentation___ at 2022 Speech for Social Good Workshop (virtual, co-located with 2022 Interspeech)
-* ___Poster (virtual)___ at 2022 Interspeech, Sep 18-22, Incheon, Korea   
-* 2022 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL), 2022 Jul 10-15, Seattle, WA
-* 2022 American Society for Engineering Education (ASEE) Gulf-Southwest (GSW) Section Conference, 2022 Mar 16-18, Prairie View, TX
-* Conference on Research Innovations in Early Intervention, 2022 Feb 10-12, San Diego, CA
+### [Latest Updates](#latest-updates)  &nbsp;&nbsp;&nbsp; [Open for Internship or Job](#open-for-internship-or-job-opportunity) 
 
 Latest Updates
 ------
@@ -40,7 +30,7 @@ Latest Updates
 * On <font color="blue">November 24, 2020</font>, I was awarded the **ASA Student Participation Grant** for the 179th meeting of the Acoustical Society of America.
 
 
-Open for Internship or Job
+Open for Internship or Job Opportunity
 ------
 
 Currently, I am available for a <font color="red">Summer Internship in 2023</font>. 
