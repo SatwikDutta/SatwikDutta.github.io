@@ -1,20 +1,10 @@
 ---
-title: 'Blog Post number 4'
+title: 'Innovation, Collaboration Come Together at First UTD Research Day'
 date: 2015-08-14
 permalink: /posts/2022/10/utd-research-day/
 tags:
-  - cool posts
-  - category1
-  - category2
+  - research
+  - award
 ---
 
-This is a sample blog post. Lorem ipsum I can't remember the rest of lorem ipsum and don't have an internet connection right now. Testing testing testing this blog post. Blog posts are cool.
-
-Headings are cool
-======
-
-You can have many headings
-======
-
-Aren't headings cool?
-------
+<img src="images/2022-Research-Day-109.jpeg" alt="" />
