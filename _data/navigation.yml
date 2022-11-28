@@ -13,7 +13,7 @@ main:
 #    url: /leadership/
            
   - title: "Highlights"
-    url: /year-archive/
+    url: /posts/
     
   - title: "CV"
     url: /cv/
