@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Satwik Dutta"
 title_separator          : "-"
 name                     : &name "Satwik Dutta"
-description              : &description "Ph.D. Candidate at the University of Texas at Dallas"
+description              : &description "Ph.D. Student at the University of Texas at Dallas"
 url                      : https://SatwikDutta.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "SatwikDutta.github.io"
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Satwik Dutta"
   avatar           : "profile.JPG"
-  bio              : "Ph.D. Candidate & Research Assitant at the University of Texas at Dallas"
-  location         : 
-  employer         : 
+  bio              : "Ph.D. Student & Research Assitant"
+  location         : "Richardson, Texas"
+  employer         : "The University of Texas at Dallas"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&authuser=1&user=sZkQ4Y0AAAAJ"
   email            : "satwik.dutta@utdallas.edu"
