@@ -12,6 +12,8 @@ main:
 #  - title: "Leadership"
 #    url: /leadership/
            
+  - title: "Highlights"
+    url: /year-archive/
+    
   - title: "CV"
     url: /cv/
-    
