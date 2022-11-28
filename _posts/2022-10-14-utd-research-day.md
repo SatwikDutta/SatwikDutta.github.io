@@ -11,4 +11,4 @@ tags:
 
 Credits: [The Office of Research and Innovation, University of Texas at Dallas](https://sites.utdallas.edu/researchday/)
 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6995852716820348928" height="668" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6995852716820348928" height="668" width="504" style="border:1px blue solid;" allowfullscreen="" title="Embedded post"></iframe>
