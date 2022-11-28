@@ -7,4 +7,4 @@ tags:
   - award
 ---
 
-<img src="images/2022-Research-Day-109.jpeg" alt="" />
+<img src='/images/2022-Research-Day-109.jpeg'>
