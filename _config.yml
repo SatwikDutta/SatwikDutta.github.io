@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Satwik Dutta"
   avatar           : "profile.JPG"
-  bio              : "Ph.D. Student & Research Assitant"
-  location         : "Richardson, Texas"
-  employer         : "The University of Texas at Dallas"
+  bio              : "Ph.D. Student & Research Assitant at The University of Texas at Dallas"
+  location         : 
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&authuser=1&user=sZkQ4Y0AAAAJ"
   email            : "satwik.dutta@utdallas.edu"
