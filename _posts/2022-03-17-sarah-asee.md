@@ -1,6 +1,6 @@
 ---
 title: 'Tao, Dutta's mentee, presents at ASEE and wins Best UG Paper Award'
-date: 2022-04-12
+date: 2022-03-17
 permalink: /posts/2022/03/sarah/
 tags:
   - research
@@ -8,11 +8,9 @@ tags:
   - mentoring
 ---
 
-<img src='/images/2022-04-12-sarah-asee.jpeg'>
+<img src='/images/2022-03-17-sarah-asee.jpeg'>
 
-Credits: My superstar boss Dr Hansen 
-
-Mentoring undergraduate students is something Satwik really enjoys, and feels that mentoring is at the core of his professional development. Starting from 2021, Satwik mentored Jacob Reyna, an undergraduate student in Computer Engineering. Jacob was selected as an NSF REU in our Center. In April 2022, Jacob presented his research as a recipient of the 2022 Undergraduate Research Scholar Award!
+Mentoring undergraduate students is something Satwik really enjoys, and feels that mentoring is at the core of his professional development. Starting from 2021, Satwik mentored Sarah Tao, an undergraduate student in Electrical Engineering. Sarah was selected as an NSF REU in our Center. In March 2022, Jacob presented her research at [2022 American Society for Engineering Education (ASEE) Gulf-Southwest (GSW) Section conference](https://www.pvamu.edu/engineering/2022-asee-gsw-conference/) and received the ASEE-GSW UG Student Best Paper Award for 2022! 
 
 Congrats [Sarah](https://www.linkedin.com/in/sarah-tao/)!
 
