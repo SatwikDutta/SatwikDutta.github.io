@@ -1,6 +1,6 @@
 ---
 title: 'Dutta awarded Student Leadership Scholarship for commitment, service, and leadership in student life'
-date: 2022-09-09
+date: 2021-09-09
 permalink: /posts/2021/09/leadership-award/
 tags:
   - service
