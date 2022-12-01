@@ -1,5 +1,5 @@
 ---
-title: 'Dutta finishes an AI/ML intern in Apple Siri Perception over Summer 2022'
+title: 'Dutta finishes an AI/ML internship in Apple's Siri Perception Team over Summer 2022'
 date: 2022-08-19
 permalink: /posts/2022/08/apple/
 tags:
