@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "নমস্কার https://user-images.githubusercontent.com/43531349/204990442-902f9a9e-925d-4ab3-a644-22fa08eac85f.mov"
+title: "Welcome - নমস্কার"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
