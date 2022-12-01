@@ -1,5 +1,5 @@
 ---
-title: 'Tao, Dutta's mentee, presents at ASEE and wins Best UG Paper Award'
+title: 'Tao presents at ASEE and wins Best UG Paper Award'
 date: 2022-03-17
 permalink: /posts/2022/03/sarah/
 tags:
