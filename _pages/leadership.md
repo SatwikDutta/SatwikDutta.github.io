@@ -7,8 +7,9 @@ author_profile: true
 
 ### <span style="color: rgb(0, 179, 60);">&#9818;</span>Academic Service &nbsp;&nbsp; <span style="color: rgb(0, 0, 230);">&#9873;</span>Professional Service &nbsp;&nbsp; <span style="color: rgb(204, 0, 204);">&#9730;</span>Community Service 
 
+
+(L12) <span style="color: rgb(0, 0, 230);">&#9873;</span> **Mentorship Coordinator** (<font color="#0000e6">2023-</font>), Students Activities Committee, International Speech Communication Association.<br>  
 (L13) <span style="color: rgb(0, 0, 230);">&#9873;</span> **Student Council Representative** (<font color="#0000e6"> Fall 2022-Spring 2024</font>), Technical Committee on Speech Communication, Acoustical Society of America.<br>  
-(L12) <span style="color: rgb(0, 0, 230);">&#9873;</span> **Communication Support Lead** (<font color="#0000e6">2022-</font>), Task Force on Electronic Tools, International Speech Communication Association.<br>  
 (L11) <span style="color: rgb(0, 0, 230);">&#9873;</span> **Public Relations Lead** (<font color="#0000e6">2021</font>), Student Activities Committee, IEEE Engineering in Medicine and Biology Society.<br>   
 (L10) <span style="color: rgb(0, 179, 60);">&#9818;</span> **ECE Ambassador** (<font color="#0000e6">2020- </font>), Department of Electrical and Computer Engineering, Erik Jonsson School of Engineering and Computer Science, University of Texas at Dallas, USA.<br>  
 (L9) <span style="color: rgb(0, 179, 60);">&#9818;</span> **Graduate Student Representative** (<font color="#0000e6">2020-21</font>), Research Continuity Working Group, Office of Research, University of Texas at Dallas, USA.<br>  
