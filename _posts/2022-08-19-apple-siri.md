@@ -9,4 +9,4 @@ tags:
   - internship
 ---
 
-<img src='/images/2022-08-19-apple-siri.jpg'>
+<img src='/images/2022-08-19-apple-siri.jpg' style="border:1px solid black;" width="500">
