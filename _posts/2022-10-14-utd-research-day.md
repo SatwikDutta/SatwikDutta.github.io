@@ -7,7 +7,7 @@ tags:
   - award
 ---
 
-<img src='/images/2022-Research-Day-109.jpeg'>
+<img src='/images/2022-Research-Day-109.jpeg' style="border:1px solid black;" width="500">
 
 Credits: [The Office of Research and Innovation, University of Texas at Dallas](https://sites.utdallas.edu/researchday/)
 
