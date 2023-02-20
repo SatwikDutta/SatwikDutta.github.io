@@ -27,4 +27,4 @@ Credits: [UT Dallas News Center - Pair of Stellar Comets Named to Inaugural Clas
 
 University of Texas at Dallas electrical engineering doctoral student Satwik Dutta MS’20 and geosciences alumna Jade Knighton BS’17 have been selected for the first cohort of Quad Fellowships, a multinational scholarship program launched by the governments of Australia, India, Japan and the United States (the Quad) to build ties among the brightest next-generation STEM scholars.
 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7023697193597378560" height="538" width="504" frameborder="0" allowfullscreen="" title="Embedded post" style="border:1px blue solid;></iframe>
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7023697193597378560" height="538" width="504" frameborder="0" allowfullscreen="" title="Embedded post" style="border:1px blue solid;"></iframe>
