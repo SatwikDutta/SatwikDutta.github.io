@@ -9,6 +9,6 @@ tags:
   - panelist
 ---
 
-<img src='/images/2022-09-22-shining-comet.jpg'>
+<img src='/images/2022-09-22-shining-comet.jpg' style="border:1px solid black;" width="500">
 
 Credits: [Office of Development and Alumni Relations, University of Texas at Dallas](https://development.utdallas.edu/)
