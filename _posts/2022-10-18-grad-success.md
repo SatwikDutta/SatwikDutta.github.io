@@ -9,7 +9,7 @@ tags:
   - panelist
 ---
 
-<img src='/images/2022-10-18-grad-success.jpeg'>
+<img src='/images/2022-10-18-grad-success.jpeg' style="border:1px solid black;" width="500">
 
 Credits: [Office of Graduate Education, University of Texas at Dallas](https://graduate.utdallas.edu/)
 
