@@ -7,7 +7,7 @@ tags:
   - award
 ---
 
-<img src='/images/2022-10-28-UTD-Research-Day.jpeg'>
+<img src='/images/2022-10-28-UTD-Research-Day.jpeg' style="border:1px solid black;" width="500">
 
 Credits: [News Center, University of Texas at Dallas](https://news.utdallas.edu/campus-community/research-day-2022/)
 
