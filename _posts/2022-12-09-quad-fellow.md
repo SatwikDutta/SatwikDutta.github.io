@@ -7,7 +7,7 @@ tags:
   - fellowship
 ---
 
-<img src='/images/2022-12-09-quad-fellow.png' style="border:1px solid black;" width="1028">
+<img src='/images/2022-12-09-quad-fellow.png' style="border:1px solid black;" width="750">
 
 Credits: [Press Release - The Quad Nations Announce the First Cohort of Quad Fellows](https://www.quadfellowship.org/the-quad-nations-announce-the-first-cohort-of-quad-fellows)
 
