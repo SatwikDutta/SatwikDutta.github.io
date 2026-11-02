@@ -81,10 +81,19 @@ Mentoring
 Service
 ------
 
-* Student Chapter Review Committee (<font color="#0000e6">2021</font>), IEEE Engineering in Medicine and Biology Society. 
-* Assistant Dean Search Committee (<font color="#0000e6">2020</font>), Erik Jonsson School of Engineering and Computer Science, University of Texas at Dallas, USA.
-* Academic Appeals Panel (<font color="#0000e6">2019</font>), Erik Jonsson School of Engineering and Computer Science, University of Texas at Dallas, USA.
-* Traditions Committee (<font color="#0000e6">2018</font>), Student Union and Activities Advisory Board, University of Texas at Dallas, USA.
+* **Reviewer** (<font color="#0000e6">2022–present</font>)
+  - *Scientific Reports*, Nature Portfolio.
+  - ISCA Workshop on Speech and Language Technology in Education.
+  - ISCA Workshop on Child Computer Interaction.
+  - ACL/NAACL Student Research Workshop.
+  - *International Journal of Speech Technology*.
+* **Student & Young Researcher Liaison Committee** (<font color="#0000e6">2025</font>), INTERSPEECH 2025, International Speech Communication Association, Netherlands.
+* **Special Award Judge** (<font color="#0000e6">May 2023</font>), Regeneron International Science and Engineering Fair, Society for Science, USA.
+* **ECE Department Head Search Committee** (<font color="#0000e6">December 2022 – April 2023</font>), Erik Jonsson School of Engineering and Computer Science, University of Texas at Dallas, USA.
+* **COVID-19 Research Continuity Working Group** (<font color="#0000e6">August 2020 – May 2021</font>), University of Texas at Dallas, USA.
+* **Graduate Student Representative, Faculty Senate & Graduate Council** (<font color="#0000e6">August 2020 – May 2021</font>), University of Texas at Dallas, USA.
+* **Assistant Dean Search Committee** (<font color="#0000e6">August – December 2020</font>), Erik Jonsson School of Engineering and Computer Science, University of Texas at Dallas, USA.
+* **Academic Appeals Panel** (<font color="#0000e6">May – August 2019</font>), Erik Jonsson School of Engineering and Computer Science, University of Texas at Dallas, USA.
  
 References
 -------
