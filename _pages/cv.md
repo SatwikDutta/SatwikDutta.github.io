@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-### [Education](#education) &nbsp;&nbsp; [Experience](#experience) &nbsp;&nbsp; [Mentoring](#mentoring) &nbsp;&nbsp; [Media](#media) &nbsp;&nbsp; [Publications](https://scholar.google.com/citations?hl=en&authuser=1&user=sZkQ4Y0AAAAJ) &nbsp;&nbsp; [Awards & Funding](https://satwikdutta.github.io/awards/) &nbsp;&nbsp; [Leadership](https://satwikdutta.github.io/leadership/) &nbsp;&nbsp; [Service](#service)
+### [Education](#education) &nbsp;&nbsp; [Experience](#experience) &nbsp;&nbsp; [Mentoring](#mentoring) &nbsp;&nbsp; [Publications](https://scholar.google.com/citations?hl=en&authuser=1&user=sZkQ4Y0AAAAJ) &nbsp;&nbsp; [Awards & Funding](https://satwikdutta.github.io/awards/) &nbsp;&nbsp; [Leadership](https://satwikdutta.github.io/leadership/) &nbsp;&nbsp; [Service](#service)
 
 Education
 -------
@@ -78,25 +78,6 @@ Mentoring
 * Sarah Tao, Electrical Engineering — 2022 Pinch Scholarship awardee.
 * Jacob Reyna, Computer Engineering — 2022 URSA awardee.
 
-Media
-------
-
-* [Kid-Friendly Audio AI](https://tacc.utexas.edu/news/latest-news/2025/08/22/kid-friendly-audio-ai/), Texas Advanced Computing Center (<font color="#0000e6">August 2025</font>).
-* [Meet Our SAIFCA Advocates](https://www.safeaiforchildren.org/saifca-advocates/), Safe AI for Children Alliance (<font color="#0000e6">April 2025</font>).
-* [Did Google Test an Experimental AI on Kids, With Tragic Results?](https://futurism.com/character-ai-google-test-ai-chatbots-kids), *Futurism* (<font color="#0000e6">March 2025</font>).
-* [Global Influencer: Satwik Dutta MS’20](https://engineering-magazine.utdallas.edu/2024/12/10/global-influencer-satwik-dutta/), *Voyager*, University of Texas at Dallas (<font color="#0000e6">January 2025</font>).
-* [Researcher Uses AI to Accelerate Early Childhood Language Intervention](https://newdimensions.utdallas.edu/news-and-stories/portraits-of-impact/satwik-dutta/), *New Dimensions*, University of Texas at Dallas (<font color="#0000e6">August 2024</font>).
-* [Researcher Earns Science Policy Recognition](https://news.utdallas.edu/campus-community/accolades-july-2024/#:~:text=Researcher%20Earns%20Science%20Policy%20Recognition), University of Texas at Dallas (<font color="#0000e6">July 2024</font>).
-* [SPARC Winners Announced, Researcher Earns Science Policy Recognition](https://ura-hq.org/sparc-science-policy-advocacy-for-research-competition-winners-announced/), Universities Research Association (<font color="#0000e6">2024</font>).
-* [New Legislative Proposals to Deploy Artificial Intelligence Strategically](https://fas.org/accelerator/ai-legislation/), Federation of American Scientists (<font color="#0000e6">March 2024</font>).
-* “Jonsson School Is Preparing the Next Generation of Engineers and Computer Scientists,” *The Dallas Morning News* (<font color="#0000e6">February 2024</font>).
-* [The Quad Nations Announce the First Cohort of Quad Fellows](https://www.quadfellowship.org/the-quad-nations-announce-the-first-cohort-of-quad-fellows), Quad Fellowship (<font color="#0000e6">2023</font>).
-* [Innovation, Collaboration Come Together at First UTD Research Day](https://news.utdallas.edu/campus-community/research-day-2022/), University of Texas at Dallas (<font color="#0000e6">September 2022</font>).
-* [ECE Study International — Satwik Dutta](https://youtu.be/XbLgLQKSRTo?feature=shared), University of Texas at Dallas (<font color="#0000e6">October 2021</font>).
-* [Doctoral Student Earns National Research, University Service Awards](https://pulsar.utdallas.edu/doctoral-student-earns-national-research-university-service-awards/), University of Texas at Dallas (<font color="#0000e6">2021</font>).
-* [2021 Graduate Research Grant Recipients](https://www.phikappaphi.org/grants-awards/graduate-research/2021-graduate-research-grant-recipients), The Honor Society of Phi Kappa Phi (<font color="#0000e6">2021</font>).
-* [Fall 2020 LDC Data Scholarship Recipients](https://www.ldc.upenn.edu/communications/newsletter/october-2020-newsletter), Linguistic Data Consortium (<font color="#0000e6">October 2020</font>).
- 
 Service
 ------
 
