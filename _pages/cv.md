@@ -14,6 +14,7 @@ Education
 
 * **Ph.D.** in Electrical Engineering (<font color="#0000e6">August 2026</font>), University of Texas at Dallas, Richardson, TX, USA.
   - Advisor: [Dr. John H. L. Hansen](https://personal.utdallas.edu/~john.hansen/).
+  - Dissertation: *Deep Learning Based Automatic Speech Processing for Children in Naturalistic Educational Environments*.
   
 * **M.S.** in Electrical Engineering (<font color="#0000e6">2020</font>), University of Texas at Dallas, Richardson, TX, USA.
   - Advisor: [Dr. John H. L. Hansen](https://personal.utdallas.edu/~john.hansen/).
