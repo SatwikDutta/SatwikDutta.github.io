@@ -8,9 +8,11 @@ author_profile: true
 ### <span style="color: rgb(0, 179, 60);">&#9818;</span>Academic Service &nbsp;&nbsp; <span style="color: rgb(0, 0, 230);">&#9873;</span>Professional Service &nbsp;&nbsp; <span style="color: rgb(204, 0, 204);">&#9730;</span>Community Service 
 
 
-(L13) <span style="color: rgb(0, 0, 230);">&#9873;</span> **Mentorship Coordinator** (<font color="#0000e6">2023-</font>), Students Activities Committee, International Speech Communication Association.<br>  
+(L15) <span style="color: rgb(0, 0, 230);">&#9873;</span> **Advisor** (<font color="#0000e6">2024–25, 2025–26</font>), Student Advisory Committee, International Speech Communication Association.<br>
+(L14) <span style="color: rgb(0, 0, 230);">&#9873;</span> **Mentoring & Co-Media Coordinator** (<font color="#0000e6">2023–24</font>), Student Advisory Committee, International Speech Communication Association.<br>
+(L13) <span style="color: rgb(204, 0, 204);">&#9730;</span> **Group Leader, Youth Leadership Team & UT Dallas Delegate** (<font color="#0000e6">August 2024</font>), 12th University Scholars Leadership Symposium, Humanitarian Affairs Asia and the United Nations.<br>
 (L12) <span style="color: rgb(0, 0, 230);">&#9873;</span> **Student Council Representative** (<font color="#0000e6"> Fall 2022-Spring 2024</font>), Technical Committee on Speech Communication, Acoustical Society of America.<br>  
-(L11) <span style="color: rgb(0, 0, 230);">&#9873;</span> **Public Relations Lead** (<font color="#0000e6">2021</font>), Student Activities Committee, IEEE Engineering in Medicine and Biology Society.<br>   
+(L11) <span style="color: rgb(0, 0, 230);">&#9873;</span> **Public Relations, Outreach & Communications Lead** (<font color="#0000e6">January–December 2021</font>), Student Activities Committee, IEEE Engineering in Medicine and Biology Society.<br>
 (L10) <span style="color: rgb(0, 179, 60);">&#9818;</span> **ECE Ambassador** (<font color="#0000e6">2020- </font>), Department of Electrical and Computer Engineering, Erik Jonsson School of Engineering and Computer Science, University of Texas at Dallas, USA.<br>  
 (L9) <span style="color: rgb(0, 179, 60);">&#9818;</span> **Graduate Student Representative** (<font color="#0000e6">2020-21</font>), Research Continuity Working Group, Office of Research, University of Texas at Dallas, USA.<br>  
 (L8) <span style="color: rgb(0, 179, 60);">&#9818;</span> **School Representative** (<font color="#0000e6">2020-21</font>), Erik Jonsson School of Engineering and Computer Science, Graduate Student Assembly, University of Texas at Dallas, USA.<br>  
