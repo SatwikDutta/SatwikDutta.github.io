@@ -17,7 +17,7 @@ During my Master's research, I worked on collaborative projects with [Dr. Lisa G
 
 Beyond my academic commitments, I served as the [Student Council Representative](https://asastudents.org/about/meet-the-student-council/) for the Technical Committee on Speech Communication for the [Acoustical Society of America](https://acousticalsociety.org) and on the [Student Advisory Committee](http://www.isca-students.org/sacweb/) of the [International Speech Communication Association](https://www.isca-speech.org/iscaweb/) as Event and co-Media Co-ordinator, and later as an advisor. 
 
-### [Latest Updates](https://satwikdutta.github.io/year-archive/)  &nbsp;&nbsp;&nbsp; [Open for Internship or Job](#open-for-internship-or-job-opportunity)
+### [Open for Internship or Job](#open-for-job-opportunity)
 
 Open for Job Opportunity
 ------
