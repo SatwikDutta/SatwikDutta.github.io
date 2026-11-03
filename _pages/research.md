@@ -302,7 +302,7 @@ author_profile: true
 <div class="research-page">
   <section class="research-intro" aria-labelledby="research-statement">
     <p class="research-intro__eyebrow">Child-centered speech and voice AI</p>
-    <p class="research-intro__statement" id="research-statement">I develop speech technologies that work in the places children learn—classrooms, homes, museums, and tutoring environments—while treating privacy, efficiency, and equitable evaluation as core system requirements.</p>
+    <p class="research-intro__statement" id="research-statement">My research develops speech technologies that work in the places children learn—classrooms, homes, museums, and tutoring environments—while treating privacy, efficiency, and equitable evaluation as core system requirements.</p>
   </section>
 
   <nav class="research-nav" aria-label="Research themes">
@@ -320,7 +320,7 @@ author_profile: true
         <h2>Privacy-preserving and efficient child ASR</h2>
       </div>
     </header>
-    <p class="research-theme__lead">I investigate how child-speech recognition can reduce dependence on cloud inference and limit exposure of raw voice data. This work combines discrete speech units with compact, compressed Whisper models that can run locally on low-cost edge hardware.</p>
+    <p class="research-theme__lead">My research investigates how child-speech recognition can reduce dependence on cloud inference and limit exposure of raw voice data. This work combines discrete speech units with compact, compressed Whisper models that can run locally on low-cost edge hardware.</p>
     <div class="research-evidence" aria-label="Selected results">
       <span>15.7% WER on MyST with discrete ASR</span>
       <span>Nearly 3× faster training</span>
@@ -345,7 +345,7 @@ author_profile: true
         <h2>Measuring child–adult interactions</h2>
       </div>
     </header>
-    <p class="research-theme__lead">Long, naturalistic recordings become useful only when they can be converted into interpretable measures. I build speech-recognition and speaker-diarization pipelines for classrooms and informal learning environments, including science museums, to estimate conversational turns, spoken initiations and responses, individual talk time, and location-aware engagement.</p>
+    <p class="research-theme__lead">Long, naturalistic recordings become useful only when they can be converted into interpretable measures. My research develops speech-recognition and speaker-diarization pipelines for classrooms and informal learning environments, including science museums, to estimate conversational turns, spoken initiations and responses, individual talk time, and location-aware engagement.</p>
     <div class="research-evidence" aria-label="Interaction measures">
       <span>Who spoke when?</span>
       <span>Conversational turns</span>
@@ -371,7 +371,7 @@ author_profile: true
         <h2>Responsible child-speech data and evaluation</h2>
       </div>
     </header>
-    <p class="research-theme__lead">Responsible child-speech AI starts before model training. My work addresses field data collection, corpus curation, transcription quality, and evaluation that goes beyond a single aggregate word error rate. The goal is to make performance differences visible across age groups, regional dialects, demographic cohorts, and clinical speech differences.</p>
+    <p class="research-theme__lead">Responsible child-speech AI starts before model training. My research addresses field data collection, corpus curation, transcription quality, and evaluation that goes beyond a single aggregate word error rate. The goal is to make performance differences visible across age groups, regional dialects, demographic cohorts, and clinical speech differences.</p>
     <div class="research-leaderboard" aria-label="Evaluation priorities">
       <div><strong>Document the data</strong><span>Recording context, speaker roles, transcription quality, and collection conditions.</span></div>
       <div><strong>Disaggregate results</strong><span>Report aggregate and subgroup metrics rather than allowing one score to hide disparities.</span></div>
@@ -395,7 +395,7 @@ author_profile: true
         <h2>Voice privacy and AI policy</h2>
       </div>
     </header>
-    <p class="research-theme__lead">Technical safeguards operate within a changing policy environment. I study how U.S. federal and state privacy laws define voice recordings and voiceprints, what additional protections apply to children, and how synthetic data can support responsible AI development without treating regulation as an afterthought.</p>
+    <p class="research-theme__lead">Technical safeguards operate within a changing policy environment. My research examines how U.S. federal and state privacy laws define voice recordings and voiceprints, what additional protections apply to children, and how synthetic data can support responsible AI development without treating regulation as an afterthought.</p>
     <div class="research-evidence" aria-label="Policy areas">
       <span>Federal and state privacy law</span>
       <span>Children’s data protection</span>
@@ -415,7 +415,7 @@ author_profile: true
   <section class="earlier-research" id="earlier-research">
     <p class="research-theme__eyebrow">Selected foundations</p>
     <h2>Earlier Research</h2>
-    <p>Earlier projects established the signal-processing, clinical-speech, and multimodal foundations for my current work.</p>
+    <p>Earlier projects established the signal-processing, clinical-speech, and multimodal foundations for the current research program.</p>
     <div class="earlier-grid">
       <article class="earlier-card">
         <h3>NeuroVAD</h3>
