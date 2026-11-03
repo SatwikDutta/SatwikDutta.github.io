@@ -381,6 +381,9 @@ author_profile: true
       <figcaption>Naturalistic preschool data collection combines wearable audio, location, activity context, and speaker annotation. Figure from <a href="https://www.isca-archive.org/interspeech_2022/dutta22_interspeech.html" target="_blank" rel="noopener noreferrer">Dutta et al., INTERSPEECH 2022</a>.</figcaption>
     </figure>
     <p class="research-theme__lead">At Cornell, this direction continues through the <a href="https://k12-ai-infrastructure.org/cornell-university/" target="_blank" rel="noopener noreferrer">Open Leaderboards for Benchmarking Automated Speech Recognition in Educational Contexts</a>, which is developing child-optimized baselines and subgroup-disaggregated evaluation for K–12 tutoring audio.</p>
+    <div class="research-links">
+      <a href="https://arxiv.org/abs/2507.12870" target="_blank" rel="noopener noreferrer">SLaTE 2025 · Best Practices for Child Speech Corpora</a>
+    </div>
   </article>
 
   <article class="research-theme" id="voice-privacy-policy">
