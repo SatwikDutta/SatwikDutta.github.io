@@ -29,7 +29,6 @@ author_profile: true
   background: linear-gradient(110deg, #edf6f5 0%, #f8faf9 100%);
 }
 
-.research-intro__eyebrow,
 .research-theme__eyebrow {
   margin: 0 0 0.35rem;
   color: var(--research-accent-dark);
@@ -37,6 +36,13 @@ author_profile: true
   font-weight: 700;
   letter-spacing: 0.12em;
   text-transform: uppercase;
+}
+
+.research-intro__title {
+  margin: 0 0 0.4rem;
+  color: var(--research-ink);
+  font-size: clamp(1.35rem, 3vw, 1.85rem);
+  line-height: 1.2;
 }
 
 .research-intro__statement {
@@ -47,7 +53,7 @@ author_profile: true
 
 .research-nav {
   display: grid;
-  grid-template-columns: repeat(4, minmax(0, 1fr));
+  grid-template-columns: repeat(3, minmax(0, 1fr));
   gap: 0.65rem;
   margin: 0 0 2.4rem;
 }
@@ -192,6 +198,33 @@ author_profile: true
   background: var(--research-accent-dark);
 }
 
+.research-publications {
+  display: grid;
+  gap: 0.65rem;
+  margin: 1.1rem 0 0 4.1rem;
+  padding: 0;
+  list-style: none;
+}
+
+.research-publications li {
+  padding: 0.75rem 0.9rem;
+  border-left: 3px solid var(--research-accent);
+  background: var(--research-paper);
+}
+
+.research-publications a {
+  color: var(--research-ink);
+  font-weight: 650;
+  line-height: 1.45;
+  text-decoration: none;
+}
+
+.research-publications a:hover,
+.research-publications a:focus {
+  color: var(--research-accent-dark);
+  text-decoration: underline;
+}
+
 .research-leaderboard {
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));
@@ -293,28 +326,47 @@ author_profile: true
   }
 
   .research-theme__lead,
-  .research-evidence {
+  .research-evidence,
+  .research-publications {
     margin-left: 0;
   }
 }
 </style>
 
 <div class="research-page">
-  <section class="research-intro" aria-labelledby="research-statement">
-    <p class="research-intro__eyebrow">Child-centered speech and voice AI</p>
-    <p class="research-intro__statement" id="research-statement">My research develops speech technologies that work in the places children learn—classrooms, homes, museums, and tutoring environments—while treating privacy, efficiency, and equitable evaluation as core system requirements.</p>
+  <section class="research-intro" aria-labelledby="research-heading">
+    <h2 class="research-intro__title" id="research-heading">Child-centered speech and voice AI</h2>
+    <p class="research-intro__statement">I develop speech technologies that work in the places children learn—classrooms, homes, museums, and tutoring environments—while treating privacy, efficiency, and equitable evaluation as core system requirements.</p>
   </section>
 
   <nav class="research-nav" aria-label="Research themes">
-    <a href="#private-efficient-asr"><span class="research-nav__number">01</span>Privacy-preserving and efficient child ASR</a>
-    <a href="#child-adult-interactions"><span class="research-nav__number">02</span>Measuring child–adult interactions</a>
-    <a href="#responsible-data-evaluation"><span class="research-nav__number">03</span>Responsible data and evaluation</a>
-    <a href="#voice-privacy-policy"><span class="research-nav__number">04</span>Voice privacy and AI policy</a>
+    <a href="#child-asr"><span class="research-nav__number">01</span>Automatic Speech Recognition for Children</a>
+    <a href="#private-efficient-asr"><span class="research-nav__number">02</span>Privacy-preserving and efficient child ASR</a>
+    <a href="#child-adult-interactions"><span class="research-nav__number">03</span>Measuring child–adult interactions</a>
+    <a href="#responsible-data-evaluation"><span class="research-nav__number">04</span>Responsible data and evaluation</a>
+    <a href="#voice-privacy-policy"><span class="research-nav__number">05</span>Voice privacy and AI policy</a>
+    <a href="#downstream-educational-applications"><span class="research-nav__number">06</span>Downstream Educational Applications</a>
   </nav>
+
+  <article class="research-theme" id="child-asr">
+    <header class="research-theme__header">
+      <span class="research-theme__number">01</span>
+      <div>
+        <p class="research-theme__eyebrow">Core speech technology</p>
+        <h2>Automatic Speech Recognition for Children</h2>
+      </div>
+    </header>
+    <p class="research-theme__lead">This research develops automatic speech recognition for preschool and school-aged children in naturalistic educational environments, addressing spontaneous speech, acoustic variability, noisy classrooms, limited corpora, and privacy-aware speech representations.</p>
+    <ul class="research-publications" aria-label="Selected publications on automatic speech recognition for children">
+      <li><a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=sZkQ4Y0AAAAJ&amp;sortby=pubdate&amp;citation_for_view=sZkQ4Y0AAAAJ:WF5omc3nYNoC" target="_blank" rel="noopener noreferrer">Challenges remain in Building ASR for Spontaneous Preschool Children Speech in Naturalistic Educational Environments</a></li>
+      <li><a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=sZkQ4Y0AAAAJ&amp;sortby=pubdate&amp;citation_for_view=sZkQ4Y0AAAAJ:Y0pCki6q_DkC" target="_blank" rel="noopener noreferrer">Activity focused Speech Recognition of Preschool Children in Early Childhood Classrooms</a></li>
+      <li><a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=sZkQ4Y0AAAAJ&amp;sortby=pubdate&amp;citation_for_view=sZkQ4Y0AAAAJ:5nxA0vEk-isC" target="_blank" rel="noopener noreferrer">Exploring discrete speech units for privacy-preserving and efficient speech recognition for school-aged and preschool children</a></li>
+    </ul>
+  </article>
 
   <article class="research-theme" id="private-efficient-asr">
     <header class="research-theme__header">
-      <span class="research-theme__number">01</span>
+      <span class="research-theme__number">02</span>
       <div>
         <p class="research-theme__eyebrow">Models and deployment</p>
         <h2>Privacy-preserving and efficient child ASR</h2>
@@ -339,7 +391,7 @@ author_profile: true
 
   <article class="research-theme" id="child-adult-interactions">
     <header class="research-theme__header">
-      <span class="research-theme__number">02</span>
+      <span class="research-theme__number">03</span>
       <div>
         <p class="research-theme__eyebrow">Speech in the wild</p>
         <h2>Measuring child–adult interactions</h2>
@@ -365,7 +417,7 @@ author_profile: true
 
   <article class="research-theme" id="responsible-data-evaluation">
     <header class="research-theme__header">
-      <span class="research-theme__number">03</span>
+      <span class="research-theme__number">04</span>
       <div>
         <p class="research-theme__eyebrow">Corpora, benchmarks, and public infrastructure</p>
         <h2>Responsible child-speech data and evaluation</h2>
@@ -389,7 +441,7 @@ author_profile: true
 
   <article class="research-theme" id="voice-privacy-policy">
     <header class="research-theme__header">
-      <span class="research-theme__number">04</span>
+      <span class="research-theme__number">05</span>
       <div>
         <p class="research-theme__eyebrow">Technology, law, and governance</p>
         <h2>Voice privacy and AI policy</h2>
@@ -410,6 +462,23 @@ author_profile: true
       <a href="https://www.isca-archive.org/syndata4genai_2024/dutta24_syndata4genai.html" target="_blank" rel="noopener noreferrer">ISCA 2024 · U.S. voice-privacy landscape</a>
       <a href="https://fas.org/publication/childrens-online-voice-privacy/" target="_blank" rel="noopener noreferrer">FAS Policy Brief · Strengthening Children’s Online Voice Privacy</a>
     </div>
+  </article>
+
+  <article class="research-theme" id="downstream-educational-applications">
+    <header class="research-theme__header">
+      <span class="research-theme__number">06</span>
+      <div>
+        <p class="research-theme__eyebrow">From speech signals to educational measures</p>
+        <h2>Downstream Educational Applications</h2>
+      </div>
+    </header>
+    <p class="research-theme__lead">This research translates speech processing into measures for early childhood education and language intervention, including adult WH-question frequency and location, conversational turn-taking, topic initiation, and accessible home data collection with smartphones.</p>
+    <ul class="research-publications" aria-label="Selected publications on downstream educational applications">
+      <li><a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=sZkQ4Y0AAAAJ&amp;sortby=pubdate&amp;citation_for_view=sZkQ4Y0AAAAJ:eQOLeE2rZwMC" target="_blank" rel="noopener noreferrer">Capturing the quantity and location of adult wh-words in the preschool classroom using a sensing tool system</a></li>
+      <li><a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=sZkQ4Y0AAAAJ&amp;sortby=pubdate&amp;citation_for_view=sZkQ4Y0AAAAJ:Tyk-4Ss8FVUC" target="_blank" rel="noopener noreferrer">Quantifying Engagement in Preschool Classrooms-Conversational Turn-Taking &amp; Topic Initiations</a></li>
+      <li><a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=sZkQ4Y0AAAAJ&amp;sortby=pubdate&amp;citation_for_view=sZkQ4Y0AAAAJ:YsMSGLbcyi4C" target="_blank" rel="noopener noreferrer">Can Smartphones be a cost-effective alternative to LENA for Early Childhood Language Intervention?</a></li>
+      <li><a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=sZkQ4Y0AAAAJ&amp;sortby=pubdate&amp;citation_for_view=sZkQ4Y0AAAAJ:zYLM7Y9cAGgC" target="_blank" rel="noopener noreferrer">Measuring frequency of child-directed wh-question words for alternate preschool locations using speech recognition and location tracking technologies</a></li>
+    </ul>
   </article>
 
   <section class="earlier-research" id="earlier-research">
