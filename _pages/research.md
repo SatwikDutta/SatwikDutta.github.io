@@ -404,6 +404,7 @@ author_profile: true
     </figure>
     <div class="research-links">
       <a href="https://www.isca-archive.org/syndata4genai_2024/dutta24_syndata4genai.html" target="_blank" rel="noopener noreferrer">ISCA 2024 · U.S. voice-privacy landscape</a>
+      <a href="https://fas.org/publication/childrens-online-voice-privacy/" target="_blank" rel="noopener noreferrer">FAS Policy Brief · Strengthening Children’s Online Voice Privacy</a>
     </div>
   </article>
 
