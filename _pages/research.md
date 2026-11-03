@@ -377,8 +377,8 @@ author_profile: true
       <div><strong>Release public infrastructure</strong><span>Open baselines, reproducible recipes, and education-specific leaderboards.</span></div>
     </div>
     <figure class="research-figure">
-      <img src="/images/research/preschool-interaction-data-collection.png" alt="Diagram of a preschool classroom, children and adults moving through activity areas over time, LENA audio recorders, a location tracker, and speaker-annotated audio" loading="lazy">
-      <figcaption>Naturalistic preschool data collection combines wearable audio, location, activity context, and speaker annotation. Figure from <a href="https://www.isca-archive.org/interspeech_2022/dutta22_interspeech.html" target="_blank" rel="noopener noreferrer">Dutta et al., INTERSPEECH 2022</a>.</figcaption>
+      <img src="/images/research/child-speech-corpus-data-collection.png" alt="Child speech data-collection framework showing where recordings are collected, how they are captured, who participates, and whether speech is scripted or spontaneous" loading="lazy">
+      <figcaption>Core design dimensions for child-speech corpus collection: where data are collected, how recordings are captured, who is recorded, and what type of speech is elicited. Related paper: <a href="https://arxiv.org/abs/2507.12870" target="_blank" rel="noopener noreferrer">Hansen, Dutta &amp; Grand, SLaTE 2025</a>.</figcaption>
     </figure>
     <p class="research-theme__lead">At Cornell, this direction continues through the <a href="https://k12-ai-infrastructure.org/cornell-university/" target="_blank" rel="noopener noreferrer">Open Leaderboards for Benchmarking Automated Speech Recognition in Educational Contexts</a>, which is developing child-optimized baselines and subgroup-disaggregated evaluation for K–12 tutoring audio.</p>
     <div class="research-links">
