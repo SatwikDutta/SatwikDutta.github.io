@@ -359,6 +359,7 @@ author_profile: true
     <div class="research-links">
       <a href="https://www.isca-archive.org/wocci_2025/dutta25b_wocci.html" target="_blank" rel="noopener noreferrer">WOCCI 2025 · Little Voices, Big Discoveries</a>
       <a href="https://www.isca-archive.org/interspeech_2022/dutta22_interspeech.html" target="_blank" rel="noopener noreferrer">INTERSPEECH 2022 · Naturalistic preschool ASR</a>
+      <a href="https://www.isca-archive.org/odyssey_2024/dutta24_odyssey.html" target="_blank" rel="noopener noreferrer">Odyssey 2024 · Bilingual Adult–Toddler Interactions</a>
     </div>
   </article>
 
