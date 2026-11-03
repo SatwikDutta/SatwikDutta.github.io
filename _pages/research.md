@@ -380,6 +380,11 @@ author_profile: true
 }
 
 @media (max-width: 700px) {
+  .research-page {
+    width: calc(100vw - 1.25rem);
+    max-width: none;
+  }
+
   .research-nav,
   .research-leaderboard,
   .earlier-grid {
@@ -393,6 +398,22 @@ author_profile: true
   .research-theme__header {
     grid-template-columns: 2.65rem minmax(0, 1fr);
     gap: 0.7rem;
+  }
+
+  .research-theme,
+  .research-theme__header > div,
+  .publication-card {
+    min-width: 0;
+  }
+
+  .research-theme h2,
+  .research-theme__lead,
+  .publication-card h4 {
+    overflow-wrap: anywhere;
+  }
+
+  .research-figure {
+    max-width: 100%;
   }
 
   .research-theme__number {
